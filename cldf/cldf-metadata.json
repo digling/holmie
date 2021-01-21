@@ -14,7 +14,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/digling/holmie",
-            "dc:created": "a4dd552"
+            "dc:created": "d274884"
         },
         {
             "rdf:type": "prov:Entity",
@@ -53,7 +53,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 2322,
+            "dc:extent": 2246,
             "tableSchema": {
                 "columns": [
                     {
@@ -262,7 +262,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 2322,
+            "dc:extent": 2246,
             "tableSchema": {
                 "columns": [
                     {

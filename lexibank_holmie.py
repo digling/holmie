@@ -25,9 +25,10 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
     concept_class = CustomConcept
     form_spec = FormSpec(
-            missing_data=("---", ),
-            separators="/",
+            missing_data=("-", ),
+            separators="/,;",
             replacements=[(" ", "_")],
+            strip_inside_brackets=False,
             first_form_only=True,
             brackets={},
             )
@@ -60,7 +61,7 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
 
         # make a wordlist for edictor to inspect the data
-        D = {0: ['doculect', 'concept', 'value', 'cogid']}
+        D = {0: ['doculect', 'concept', 'ipa', 'cogid']}
         idx = 1
 
         for i, row in progressbar(
@@ -76,14 +77,15 @@ class Dataset(BaseDataset):
                             Value=form,
                             Source='Holm2017'
                             )
-                    args.writer.add_cognate(
-                            lexeme=lexemes[0],
-                            Cognateset_ID=str(i+1),
-                            Cognate_Detection_Method='expert',
-                            Source='Holm2017'
-                            )
-                    D[idx] = [language, wl_concepts[row['Meaning']], form, i+1]
-                    idx += 1
+                    if lexemes:
+                        args.writer.add_cognate(
+                                lexeme=lexemes[0],
+                                Cognateset_ID=str(i+1),
+                                Cognate_Detection_Method='expert',
+                                Source='Holm2017'
+                                )
+                        D[idx] = [language, wl_concepts[row['Meaning']], form, i+1]
+                        idx += 1
         Wordlist(D).output(
                 'tsv',
                 filename=self.raw_dir.joinpath('wordlist').as_posix())

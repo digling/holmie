@@ -9,17 +9,17 @@ This dataset is licensed under a CC-BY-4.0 license
 ## Statistics
 
 
-![Glottolog: 80%](https://img.shields.io/badge/Glottolog-80%25-yellow.svg "Glottolog: 80%")
+![Glottolog: 79%](https://img.shields.io/badge/Glottolog-79%25-yellow.svg "Glottolog: 79%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-brightgreen.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 17
 - **Concepts:** 100
-- **Lexemes:** 2,322
+- **Lexemes:** 2,246
 - **Sources:** 1
-- **Synonymy:** 1.37
-- **Cognacy:** 2,322 cognates in 814 cognate sets (359 singletons)
-- **Cognate Diversity:** 0.32
+- **Synonymy:** 1.32
+- **Cognacy:** 2,246 cognates in 814 cognate sets (375 singletons)
+- **Cognate Diversity:** 0.33
 
 # Contributors
 

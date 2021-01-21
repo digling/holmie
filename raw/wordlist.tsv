@@ -1,0 +1,2350 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	IPA	COGID
+#
+967	Rus	I (PrsPrn 1Sg)	ja	364
+968	Lit	I (PrsPrn 1Sg)	àš	364
+969	oIs	I (PrsPrn 1Sg)	ek	364
+970	Bkm	I (PrsPrn 1Sg)	jeg	364
+971	Itn	I (PrsPrn 1Sg)	io	364
+972	Lat	I (PrsPrn 1Sg)	ego	364
+973	Alb	I (PrsPrn 1Sg)	unë(?)	364
+974	aGr	I (PrsPrn 1Sg)	ἔγω	364
+975	rGr	I (PrsPrn 1Sg)	εγώ	364
+976	Arm	I (PrsPrn 1Sg)	(j)es	364
+977	Hit	I (PrsPrn 1Sg)	uk	364
+978	ToB	I (PrsPrn 1Sg)	ñäśB  (?)	364
+979	Ave	I (PrsPrn 1Sg)	azǝm	364
+980	San	I (PrsPrn 1Sg)	ahám	364
+981	oIr	I (PrsPrn 1Sg)	mé	365
+982	rIr	I (PrsPrn 1Sg)	mé	365
+983	Hnd	I (PrsPrn 1Sg)	maĩ	365
+#
+2229	Rus	You, 2sg, thou (1955) [uninftve]	ты	813
+2230	Lit	You, 2sg, thou (1955) [uninftve]	tù	813
+2231	oIs	You, 2sg, thou (1955) [uninftve]	þú	813
+2232	Bkm	You, 2sg, thou (1955) [uninftve]	du	813
+2233	oIr	You, 2sg, thou (1955) [uninftve]	tū	813
+2234	rIr	You, 2sg, thou (1955) [uninftve]	tu	813
+2235	Itn	You, 2sg, thou (1955) [uninftve]	tu	813
+2236	Lat	You, 2sg, thou (1955) [uninftve]	tū	813
+2237	Alb	You, 2sg, thou (1955) [uninftve]	ti	813
+2238	aGr	You, 2sg, thou (1955) [uninftve]	ττύ,σύ	813
+2239	rGr	You, 2sg, thou (1955) [uninftve]	εσύ	813
+2240	Arm	You, 2sg, thou (1955) [uninftve]	du	813
+2241	Hit	You, 2sg, thou (1955) [uninftve]	tu {obl}	813
+2242	ToB	You, 2sg, thou (1955) [uninftve]	B tuwe	813
+2243	Ave	You, 2sg, thou (1955) [uninftve]	tūm, tvə̄m-	813
+2244	San	You, 2sg, thou (1955) [uninftve]	t(u)vám	813
+2245	Hnd	You, 2sg, thou (1955) [uninftve]	tū	813
+2246	Hit	You, 2sg, thou (1955) [uninftve]	zik {dir}	814
+#
+1	Rus	all (of a no.)	все/ё	1
+2	Lit	all (of a no.)	vìsa-	1
+3	Ave	all (of a no.)	višpa-	1
+4	San	all (of a no.)	viśva	1
+5	oIs	all (of a no.)	allir	2
+6	Bkm	all (of a no.)	alle	2
+7	oIr	all (of a no.)	uile	2
+8	rIr	all (of a no.)	uile	2
+9	Lat	all (of a no.)	(ultra)	2
+10	aGr	all (of a no.)	(ὅλος)	2
+11	rGr	all (of a no.)	όλος	2
+12	ToB	all (of a no.)	(salu)	2
+13	Ave	all (of a no.)	(haurva)	2
+14	San	all (of a no.)	(sárva)	2
+15	Itn	all (of a no.)	tutti	3
+16	Lat	all (of a no.)	(totus)	3
+17	Lat	all (of a no.)	omnēs	4
+18	Hnd	all (of a no.)	(sab)	4
+19	Alb	all (of a no.)	gjithë	5
+20	aGr	all (of a no.)	(ἅ)πας,  πάν-τες	6
+21	ToB	all (of a no.)	po(ñc)	6
+22	Arm	all (of a no.)	bolor	7
+23	Hit	all (of a no.)	[ḫūmant]	8
+24	Hnd	all (of a no.)	sārā	9
+#
+25	oIs	ash(es)	aska	10
+26	Bkm	ash(es)	aske	10
+27	Arm	ash(es)	(ačiun?)	10
+28	Hit	ash(es)	ḫāss-	10
+29	San	ash(es)	ā́sa	10
+30	Itn	ash(es)	ceneri	11
+31	Lat	ash(es)	cinis	11
+32	aGr	ash(es)	(κόνις ‘dust, ashes’)	11
+33	Rus	ash(es)	золá	12
+34	Rus	ash(es)	(пепел)	13
+35	Lit	ash(es)	pelenaĩ	13
+36	oIr	ash(es)	lúaith	14
+37	rIr	ash(es)	lúaith	14
+38	Alb	ash(es)	hi(ri)	15
+39	aGr	ash(es)	τέφρα	16
+40	rGr	ash(es)	στάχτη	17
+41	Arm	ash(es)	moxir	18
+42	ToB	ash(es)	AB taur  (L?)	19
+43	Ave	ash(es)	ātriiəm	20
+44	San	ash(es)	(bhásman)	21
+45	Hnd	ash(es)	rākh	21
+#
+46	Rus	bark	kora	22
+47	Itn	bark	corteccia	22
+48	Lat	bark	cortex	22
+49	Lit	bark	žievė	23
+50	oIs	bark	borkr	24
+51	Bkm	bark	bark	24
+52	oIr	bark	[rúsc]	25
+53	rIr	bark	[rúsc]	25
+54	Rus	bark	(SHr,R lub)	26
+55	Lit	bark	(lúoba?)	26
+56	Alb	bark	lëvozhgë	26
+57	aGr	bark	φλοιός	27
+58	rGr	bark	φλουδα	27
+59	Arm	bark	[keġev]	28
+60	Hit	bark	G	29
+61	ToB	bark	B enmetre	30
+62	Ave	bark	G	31
+63	San	bark	valká	32
+64	Itn	bark	(scorza)	33
+65	San	bark	(challi )	33
+66	Hnd	bark	chāl	33
+#
+67	Itn	belly	?ventre	34
+68	Lat	belly	venter	34
+69	Ave	belly	udar-	34
+70	San	belly	udára-	34
+71	Rus	belly	Брюшко	35
+72	oIr	belly	brú	35
+73	Lit	belly	pilvas	36
+74	oIs	belly	kviðr	37
+75	ToB	belly	Bkātso	37
+76	Bkm	belly	buk	38
+77	Itn	belly	(? pancia )	38
+78	Lat	belly	< (pantex)	38
+79	oIs	belly	(belgr)	39
+80	rIr	belly	bolg	39
+81	Alb	belly	barku	40
+82	aGr	belly	γαστήρ	41
+83	rGr	belly	κοιλιά	42
+84	Arm	belly	[p’or]	43
+85	Hit	belly	[sarḫuwant]	44
+86	San	belly	(kukṣí)	45
+87	Hnd	belly	kukṣi	45
+88	Rus	belly	(живот)	46
+89	Rus	belly	(aбдомен)	47
+90	Itn	belly	(addome)	47
+91	Lat	belly	(abdomen)	47
+#
+92	oIr	big	mor	48
+93	rIr	big	mór	48
+94	Lat	big	magnus	48
+95	Alb	big	madhe	48
+96	aGr	big	μέγας	48
+97	rGr	big	μεγάλος	48
+98	Arm	big	meç	48
+99	ToB	big	(māk(a)	48
+100	Ave	big	maz-a	48
+101	San	big	mah-ā́nt	48
+102	Rus	big	большой	49
+103	Lit	big	[dìdelis]	50
+104	Lit	big	(stóras)	51
+105	oIs	big	stórr	51
+106	Bkm	big	stor	51
+107	Itn	big	grande	52
+108	Lat	big	(solidus, salvus)	53
+109	aGr	big	(ὅλος?)	53
+110	Hit	big	[salli] (?)	53
+111	ToB	big	B orotstse	54
+112	San	big	(vaḍra-)	55
+113	Hnd	big	baṛā	55
+#
+114	Itn	bird	uccello	56
+115	Lat	bird	avis	56
+116	Alb	bird	(vido ‘Taube’)	56
+117	aGr	bird	(αἰετός ‘Adler’)	56
+118	Arm	bird	(hav)	56
+119	Hit	bird	suwai- (hapax)?	56
+120	Ave	bird	vaii, vīš	56
+121	San	bird	véṣ, váy, ví-	56
+122	oIr	bird	Lu en	57
+123	rIr	bird	éan	57
+124	aGr	bird	(πέτομαιι)	57
+125	Arm	bird	ewS tʽṙčʽun	57
+126	Rus	bird	птица	58
+127	Lit	bird	paũkštis	58
+128	oIs	bird	fugl ?	59
+129	Bkm	bird	fugl ?	59
+130	Alb	bird	zogu	60
+131	aGr	bird	ὄρνις	61
+132	aGr	bird	(πώλος)	62
+133	rGr	bird	[πουλί]	62
+134	Hit	bird	wattei	63
+135	ToB	bird	[ṣalamo luwo]	64
+136	San	bird	(pakṣin)	65
+137	Hnd	bird	pakṣī	65
+138	Rus	bird	(орьлъ ‘Adler’)	66
+139	Lit	bird	(erelis ‘Adler)	66
+140	oIr	bird	(irar ‘eagle’)	66
+141	Arm	bird	(oror)	66
+142	Hit	bird	(ḫāras)	66
+#
+143	aGr	bite (v)	δάκνω	67
+144	rGr	bite (v)	δαγκώνω	67
+145	ToB	bite (v)	tsāk-B ?	67
+146	Ave	bite (v)	(jAv:dạs)	67
+147	San	bite (v)	daṁs	67
+148	Rus	bite (v)	кусать	68
+149	Lit	bite (v)	(į)kąsti	68
+150	oIs	bite (v)	bita	69
+151	Bkm	bite (v)	bite	69
+152	oIr	bite (v)	(cnaïd?)	70
+153	rIr	bite (v)	báin gréim	71
+154	Itn	bite (v)	mordere	72
+155	Lat	bite (v)	mordēre	72
+156	Alb	bite (v)	[kafshoj]L	73
+157	Arm	bite (v)	[kçel]	74
+158	Hit	bite (v)	wāk- I	75
+159	ToB	bite (v)	([kāpar])	75
+160	San	bite (v)	(khād >)	76
+161	Hnd	bite (v)	kat	76
+#
+162	Rus	black	чёрный	77
+163	Lit	black	(oPr:kirsnan)	77
+164	San	black	kr̥ṣṇá	77
+165	Lit	black	[júodas]	78
+166	oIs	black	svartr	79
+167	Bkm	black	svart (sort)	79
+168	oIr	black	dub	80
+169	rIr	black	dubh	80
+170	Itn	black	nero	81
+171	Lat	black	(niger)	81
+172	Lat	black	āter	82
+173	Ave	black	(ātar-)	82
+174	Alb	black	zi	83
+175	Lit	black	(Lv:melns)	84
+176	aGr	black	μέλᾱς	84
+177	San	black	(meliná)	84
+178	rGr	black	μαύρος	85
+179	oIr	black	(ciar)	86
+180	Arm	black	[se(a)v]	86
+181	Ave	black	(syāva )	86
+182	San	black	śyāmá	86
+183	Hit	black	t/dankui I	87
+184	ToB	black	Berkent	88
+185	Ave	black	sāmō/a	89
+186	San	black	śyāmá	89
+187	Hnd	black	[kālā]	90
+#
+188	Lit	blood	(Lv: asins)	91
+189	Lat	blood	(aser)	91
+190	aGr	blood	(ἔαρ)	91
+191	Arm	blood	aryun	91
+192	Hit	blood	ēsḫar-	91
+193	ToB	blood	B ysär	91
+194	San	blood	ásṛj	91
+195	Itn	blood	sangue  (?)	92
+196	Lat	blood	sanguis (?)	92
+197	Alb	blood	gjak	92
+198	Rus	blood	кро-вь	93
+199	Lit	blood	krauja-s	93
+200	oIs	blood	blóð	94
+201	Bkm	blood	blod	94
+202	oIr	blood	fuil	95
+203	rIr	blood	fuil	95
+204	aGr	blood	αἷμα	96
+205	rGr	blood	αίμα	96
+206	Ave	blood	vohu-tāt/nī	97
+207	Hnd	blood	[xūn]	97
+208	Hnd	blood	rakt	98
+#
+209	oIr	bone	(asna)	99
+210	rIr	bone	(asil)	99
+211	Itn	bone	osso	99
+212	Lat	bone	os(su)	99
+213	Alb	bone	(asht-)	99
+214	aGr	bone	ὀστέον	99
+215	rGr	bone	οστό (hwik)	99
+216	Arm	bone	(v)oskor	99
+217	Hit	bone	ḫastāi	99
+218	ToB	bone	AB āy	99
+219	Ave	bone	ast-	99
+220	San	bone	ásthi	99
+221	Hnd	bone	(asthi)	99
+222	Rus	bone	кость	100
+223	Lat	bone	(costa)	100
+224	aGr	bone	(κόκκαλος)?	100
+225	rGr	bone	κόκκαλα	100
+226	Alb	bone	[kockë]	101
+227	Lit	bone	káula-s	102
+228	oIs	bone	bein	103
+229	Bkm	bone	[ben]	103
+230	oIr	bone	cnáim	104
+231	rIr	bone	cnámh	104
+232	Hnd	bone	haḍḍī	105
+#
+233	Lit	breasts (fem)	(aPr: spenis)	106
+234	oIs	breasts (fem)	(speni)	106
+235	oIr	breasts (fem)	(sine)	106
+236	Itn	breasts (fem)	( sene)	106
+237	Lat	breasts (fem)	(sinus)	106
+238	aGr	breasts (fem)	(στῆθος)	106
+239	Arm	breasts (fem)	(seldom: st(h)in)	106
+240	ToB	breasts (fem)	päś-śäṃA/caneB	106
+241	Ave	breasts (fem)	fštāna	106
+242	San	breasts (fem)	stána	106
+243	Hnd	breasts (fem)	stan	106
+244	Rus	breasts (fem)	грудь	107
+245	Lit	breasts (fem)	krūtis	108
+246	Rus	breasts (fem)	(brjúcho)	109
+247	oIs	breasts (fem)	brjóst	109
+248	Bkm	breasts (fem)	[bryst]	109
+249	oIr	breasts (fem)	( bruinne)	109
+250	ToB	breasts (fem)	(St:B pratsāko:?)	109
+251	San	breasts (fem)	(bṙst)	109
+252	oIr	breasts (fem)	cích	110
+253	rIr	breasts (fem)	cíoch	110
+254	Itn	breasts (fem)	mammella	111
+255	Lat	breasts (fem)	mammae	111
+256	Alb	breasts (fem)	[gji]L	112
+257	aGr	breasts (fem)	μαστός	113
+258	rGr	breasts (fem)	μαστός	113
+259	Arm	breasts (fem)	kurçk’	114
+260	San	breasts (fem)	P( uras)	114
+261	Hnd	breasts (fem)	(chātī)	114
+262	Arm	breasts (fem)	došikner	115
+263	Hit	breasts (fem)	(tētan )	115
+264	oIr	breasts (fem)	([ucht])	116
+265	rIr	breasts (fem)	([ucht])	116
+266	Itn	breasts (fem)	(pectus)	116
+267	Lat	breasts (fem)	(petto)	116
+#
+268	Rus	burn	žeč{tr}	117
+269	Lit	burn	dèg-ù/ti  (deg-inti)	117
+270	Lat	burn	(foveo)	117
+271	Alb	burn	djeg	117
+272	ToB	burn	(tsäk {vt})	117
+273	Ave	burn	dažaiti	117
+274	San	burn	dáh-ati	117
+275	Rus	burn	(vьritь)	118
+276	Lit	burn	(vérda)	118
+277	Arm	burn	vaṙ-im/ vel	118
+278	Hit	burn	u(w)ar-nu	118
+279	Rus	burn	гореть	119
+280	Lit	burn	(gariù ?)	119
+281	Lat	burn	(fornus)	119
+282	Arm	burn	(ǰer)	119
+283	oIs	burn	brenna	120
+284	Bkm	burn	brenne	120
+285	oIr	burn	las-aid?	121
+286	aGr	burn	αἵθομαι {t/i}	121
+287	ToB	burn	(sälp)	121
+288	San	burn	(indhé)	121
+289	oIr	burn	(dóïd)	122
+290	rIr	burn	dói-gh	122
+291	aGr	burn	(δαίω, δέδηε ) {t/i}	122
+292	Ave	burn	(θaw-/θū)	122
+293	San	burn	dunóti	122
+294	oIr	burn	loiscid?	123
+295	Itn	burn	ardere	123
+296	Lat	burn	ārdeō	123
+297	aGr	burn	καίω	124
+298	rGr	burn	καίγομαι	124
+299	Arm	burn	ayr-vel	125
+300	ToB	burn	pälk-etär	126
+301	Ave	burn	(saok)	126
+302	aGr	burn	αἵθομαι {t/i}	127
+303	ToB	burn	(sälp)	127
+304	San	burn	(indhé)	127
+305	Hnd	burn	jalnā	127
+306	Itn	burn	(bruciare, tr)	128
+307	Lat	burn	St: ūrō {t?}	128
+308	Alb	burn	(ethe)	128
+309	aGr	burn	(εὕω)	128
+310	Ave	burn	(by-ūvā’re)	128
+311	San	burn	óṣ(ati)	128
+#
+312	Rus	cloud	(nebo-)	129
+313	Lit	cloud	debesìs	129
+314	oIr	cloud	nél	129
+315	rIr	cloud	(neal)	129
+316	Lat	cloud	(nebula)	129
+317	aGr	cloud	νέφος	129
+318	rGr	cloud	(σύν)νεφο(ς)	129
+319	Arm	cloud	amp	129
+320	Hit	cloud	(nepis-)	129
+321	Ave	cloud	CG(aβrəm)	129
+322	San	cloud	(abhrá)	129
+323	aGr	cloud	(ὀμίχλη)	130
+324	Ave	cloud	maēɣa	130
+325	San	cloud	mēghá	130
+326	Rus	cloud	о́блакo	131
+327	oIs	cloud	ský	132
+328	Bkm	cloud	ský	132
+329	rIr	cloud	scamall	133
+330	Itn	cloud	nuvola	134
+331	Lat	cloud	nūbēs	134
+332	aGr	cloud	(νυθόν)	134
+333	Ave	cloud	(snaođa)	134
+334	Alb	cloud	re-ja	135
+335	Hit	cloud	alpa ?	136
+336	ToB	cloud	B tarkär	137
+337	Hnd	cloud	bādal	138
+#
+338	Lit	cold	šáltas	139
+339	oIs	cold	(hēla)	139
+340	Arm	cold	(սառ- ‚eiskalt‘)	139
+341	Ave	cold	sarǝta	139
+342	San	cold	śíśira	139
+343	Rus	cold	холодный	140
+344	oIs	cold	kaldr	140
+345	Bkm	cold	kald	140
+346	Lat	cold	(gelidus)	140
+347	aGr	cold	(γελανδρόν)	140
+348	rGr	cold	κρύος	141
+349	Arm	cold	c’urt	141
+350	ToB	cold	B krośce	141
+351	Lit	cold	(Lv: aũksts)	142
+352	oIr	cold	úar	142
+353	rIr	cold	fuar	142
+354	Arm	cold	(oic)	142
+355	Ave	cold	(aota)	142
+356	Itn	cold	freddo	143
+357	Lat	cold	frigidus	143
+358	Alb	cold	ftohtë	144
+359	aGr	cold	ψυχρός	145
+360	Rus	cold	(īnja)	146
+361	Lit	cold	(ižà)?	146
+362	Hit	cold	ek-una-	146
+363	Ave	cold	(isu)	146
+364	Arm	cold	(paġ)	147
+365	Hnd	cold	[ṭhaṅḍā]	147
+#
+366	oIs	come	koma	148
+367	Bkm	come	komme	148
+368	Itn	come	venire	148
+369	Lat	come	veniō	148
+370	aGr	come	(LIV:βάσκε!)	148
+371	Arm	come	gal =ek-n	148
+372	ToB	come	B käm-	148
+373	Ave	come	(ā) ǰam-	148
+374	San	come	(â)gam	148
+375	Hnd	come	ā- (?)	148
+376	Rus	come	приходи́ть	149
+377	Rus	come	(pri-jti)	150
+378	Lit	come	#NAME?	150
+379	Hit	come	ú(w)e	150
+380	Lit	come	(oPr: perēi-)	151
+381	oIr	come	do-icc	151
+382	rIr	come	#NAME?	151
+383	Alb	come	[vij] L	152
+384	aGr	come	ἔρχομαι	153
+385	rGr	come	έρχομαι	153
+386	Hit	come	(āri-)	153
+387	Ave	come	Ri: ā ǰasaiti, ā aēti	154
+388	Hnd	come	ānā	154
+#
+389	Rus	die	у-мирать	155
+390	Lit	die	mir-ti	155
+391	Itn	die	morire	155
+392	Lat	die	mori-	155
+393	aGr	die	(ἔμορτεν)	155
+394	Arm	die	meṙnel	155
+395	Hit	die	(mer-t)?[L]	155
+396	Ave	die	miriiāite	155
+397	San	die	ṃr/mar-	155
+398	Hnd	die	mar	155
+399	oIs	die	deya	156
+400	Bkm	die	[dø]	156
+401	oIr	die	at-baill	157
+402	oIr	die	(bā́id)	158
+403	rIr	die	faigh bás	158
+404	Alb	die	vdes	159
+405	aGr	die	(ἔφθι-)	159
+406	aGr	die	ἀποθνῄσκω	160
+407	rGr	die	πεθαίνω	160
+408	Hit	die	āk(k)-	161
+409	ToB	die	B sruk-	162
+410	aGr	die	(άλϖναιἡ)	163
+411	Hit	die	(walahzi)?	163
+412	ToB	die	( A wäl-)	163
+#
+413	Lit	dog	šuõ	164
+414	oIs	dog	hundr	164
+415	Bkm	dog	hund	164
+416	oIr	dog	cū	164
+417	Itn	dog	cane	164
+418	Lat	dog	canis	164
+419	aGr	dog	κύων	164
+420	Arm	dog	šun	164
+421	Hit	dog	UR (kuwan-?)	164
+422	ToB	dog	ku	164
+423	Ave	dog	spā	164
+424	San	dog	śvā́-	164
+425	Rus	dog	[собака]	165
+426	rIr	dog	[madra]	166
+427	Alb	dog	>[qen]L	167
+428	rGr	dog	σκύλος	168
+429	Hnd	dog	[kuttā ]L	169
+#
+430	Rus	drink	pi-tь	170
+431	oIr	drink	ibid	170
+432	rIr	drink	ól(aim)	170
+433	Itn	drink	bere	170
+434	Lat	drink	bib-	170
+435	Alb	drink	pī	170
+436	aGr	drink	πί̄νω	170
+437	rGr	drink	πίνω	170
+438	Arm	drink	(əmpem)	170
+439	Ave	drink	(paitī {fadj})	170
+440	San	drink	pā	170
+441	Hnd	drink	pīnā	170
+442	Lat	drink	(ēbrius)	171
+443	Hit	drink	egu	171
+444	ToB	drink	#ERROR!	171
+445	Lit	drink	gérti	172
+446	oIs	drink	drekka	173
+447	Bkm	drink	drikke	173
+448	Arm	drink	[xmel]	174
+449	Ave	drink	xvar(aiti)	175
+#
+450	Rus	dry	сухой	176
+451	Lit	dry	saũsas	176
+452	Lat	dry	(sūdus) (āridus)	176
+453	Alb	dry	thatë	176
+454	aGr	dry	(αὖχμηρός)	176
+455	Hit	dry	ḫāt-ant	176
+456	ToB	dry	āsar	176
+457	Ave	dry	huška	176
+458	San	dry	śúṣka	176
+459	Hnd	dry	sūkhā	176
+460	oIs	dry	þurr	177
+461	Bkm	dry	tørr	177
+462	oIr	dry	tīr(im)	177
+463	rIr	dry	tirim	177
+464	Lat	dry	(oLa torrus)	177
+465	Alb	dry	(ter)	177
+466	aGr	dry	τέρσομαι	177
+467	Hit	dry	(tarš-ant)	177
+468	Ave	dry	(taršu-)	177
+469	aGr	dry	ξηρός	178
+470	rGr	dry	ξηρός	178
+471	Arm	dry	čor	178
+472	Itn	dry	secco	179
+473	Lat	dry	siccus	179
+#
+474	Rus	ear	ухо	180
+475	Lit	ear	ausìs	180
+476	oIs	ear	eyra	180
+477	Bkm	ear	[øre]	180
+478	oIr	ear	(āu)	180
+479	Itn	ear	orecchio	180
+480	Lat	ear	auris	180
+481	Alb	ear	vesh	180
+482	aGr	ear	οὐς	180
+483	rGr	ear	αυτί	180
+484	Arm	ear	akanǰ	180
+485	Ave	ear	(uši) [?]	180
+486	oIr	ear	clúas	181
+487	rIr	ear	cluas	181
+488	ToB	ear	klautsoB	181
+489	Hit	ear	istāman	182
+490	Ave	ear	gao-šō	183
+491	San	ear	kárṇa	184
+492	Hnd	ear	kān	184
+#
+493	Rus	earth	(земля)	185
+494	Lit	earth	(žẽmė)	185
+495	rIr	earth	ithir	185
+496	Lat	earth	humus	185
+497	Alb	earth	dhe	185
+498	aGr	earth	χθών	185
+499	Hit	earth	tēkan	185
+500	ToB	earth	keṃ	185
+501	Ave	earth	zā̊(m)	185
+502	San	earth	kṣā́m	185
+503	Rus	earth	почва !	186
+504	Lit	earth	dirva	187
+505	oIs	earth	mold	188
+506	oIs	earth	(jǫrð)	189
+507	Bkm	earth	[jord]	189
+508	aGr	earth	(ἔρᾱ)	189
+509	oIr	earth	talam	190
+510	rIr	earth	(talam?)	190
+511	Itn	earth	suolo	191
+512	Lat	earth	(solum)	191
+513	aGr	earth	(οὖδας)	192
+514	rGr	earth	έδαφος	192
+515	Arm	earth	(getin?)	192
+516	Hit	earth	(utnē)	192
+517	Arm	earth	hoġ	193
+518	Hnd	earth	dhartī	194
+519	Itn	earth	(terra)	195
+520	Lat	earth	(terra)	195
+#
+521	Rus	eat	ес-ть	196
+522	Lit	eat	(ė́du)	196
+523	oIs	eat	eta	196
+524	oIr	eat	(ed- suppl)	196
+525	Lat	eat	edō	196
+526	aGr	eat	ἔδω	196
+527	Arm	eat	ute-l	196
+528	Hit	eat	ēd-	196
+529	Ave	eat	ađāiti	196
+530	San	eat	ád-	196
+531	Lit	eat	válg-yti	197
+532	Bkm	eat	[spise]L	198
+533	oIr	eat	ith(id-)	199
+534	rIr	eat	ith	199
+535	Itn	eat	[mangiare]	200
+536	Alb	eat	hë-ngra	201
+537	rGr	eat	τρώ(γ)ω	202
+538	ToB	eat	tāpp	203
+539	Hnd	eat	khānā	204
+540	San	eat	[yuváte]?	205
+541	oIs	eat	(ǣja)	206
+542	San	eat	(as-)	206
+#
+543	Rus	egg	яйцо	207
+544	oIs	egg	egg	207
+545	Bkm	egg	egg	207
+546	oIr	egg	og	207
+547	rIr	egg	ubh	207
+548	Itn	egg	uovo	207
+549	Lat	egg	ōvum	207
+550	Alb	egg	vez-ë	207
+551	aGr	egg	ὠιόν	207
+552	rGr	egg	αυγό	207
+553	Arm	egg	ču	207
+554	Ave	egg	BH: aēm	207
+555	San	egg	(hagey)	207
+556	Lit	egg	kiaušìnis	208
+557	Hit	egg	G	209
+558	ToB	egg	G	210
+559	ToB	egg	- na	211
+560	Ave	egg	Ri,St na	211
+561	San	egg	[āṅḍā]	211
+562	Hnd	egg	[ãṇḍā]	211
+#
+563	Rus	eye	(oko alt)	212
+564	Lit	eye	akìs	212
+565	oIs	eye	auga	212
+566	Bkm	eye	[øye]	212
+567	Itn	eye	occhio	212
+568	Lat	eye	oculus	212
+569	Alb	eye	syri	212
+570	aGr	eye	ὄσσε	212
+571	Arm	eye	akn (ačʿkʿ)	212
+572	ToB	eye	A ek	212
+573	San	eye	ákṣi	212
+574	Hnd	eye	ā̃kh	212
+575	Rus	eye	глаз	213
+576	oIr	eye	rosc? (Pok)	213
+577	oIr	eye	súil	214
+578	rIr	eye	súil	214
+579	aGr	eye	(ὀφθαλμός)	215
+580	rGr	eye	μάτι	215
+581	Hit	eye	šākuwa	216
+582	ToB	eye	(sotre)	216
+583	Ave	eye	čašman	217
+584	San	eye	(cákṣuṣ)	217
+#
+585	oIs	feather	fjǫðr	218
+586	Bkm	feather	fjær	218
+587	Itn	feather	( penna)	218
+588	Lat	feather	penna	218
+589	aGr	feather	πτερόν	218
+590	rGr	feather	φτερό	218
+591	Arm	feather	pʿetur (?)	218
+592	Hit	feather	pattar	218
+593	San	feather	(páttra, cf ‘leaf’)	218
+594	Rus	feather	перо	219
+595	ToB	feather	paruwaB	219
+596	Ave	feather	parənəm	219
+597	San	feather	parṅá-	219
+598	Lit	feather	plùnksna	220
+599	oIr	feather	[clūm]	221
+600	rIr	feather	[cleite]	222
+601	Itn	feather	piuma	223
+602	Lat	feather	< (pluma)	223
+603	Alb	feather	[pendë]L	224
+604	Hnd	feather	pãṅkh	225
+#
+605	Lit	fire	(oPr: panno)	226
+606	oIs	fire	(fýrr)	226
+607	Lat	fire	(U.m pir)	226
+608	aGr	fire	πῦρ	226
+609	Arm	fire	hur	226
+610	Hit	fire	paḫḫur	226
+611	ToB	fire	pūwar	226
+612	Rus	fire	огонь	227
+613	Lit	fire	ugnis	227
+614	Lat	fire	ignis	227
+615	San	fire	agní	227
+616	Hnd	fire	āg	227
+617	oIs	fire	eldr	228
+618	Bkm	fire	[ild]	228
+619	oIr	fire	teine	229
+620	rIr	fire	tine	229
+621	Itn	fire	fuoco	230
+622	Arm	fire	(bocʿ)	230
+623	oIr	fire	(air gorn)	231
+624	Alb	fire	zjarr	231
+625	rGr	fire	φωτιά	232
+626	Arm	fire	(krak)	232
+627	Rus	fire	(vátra)	233
+628	oIs	fire	(hyrr)	233
+629	Ave	fire	ātarš	233
+#
+630	Lit	fish	žuvìs	234
+631	aGr	fish	ἰχθῦς	234
+632	Arm	fish	juk-n	234
+633	Hit	fish	(suwais)?	234
+634	oIs	fish	fiskr	235
+635	Bkm	fish	fisk	235
+636	oIr	fish	īasc	235
+637	rIr	fish	iasc	235
+638	Itn	fish	pesce	235
+639	Lat	fish	piscis	235
+640	Rus	fish	рыба	236
+641	Alb	fish	>[peshk] L	237
+642	rGr	fish	ψάρι	238
+643	Hit	fish	[parhu] L	239
+644	ToB	fish	B laks	240
+645	Ave	fish	masya	241
+646	San	fish	mátsya >	241
+647	Hnd	fish	machlī	241
+#
+648	Rus	flesh	мясо	242
+649	Lit	flesh	mēsà	242
+650	Alb	flesh	mīshi	242
+651	Arm	flesh	mis	242
+652	ToB	flesh	mīsa	242
+653	San	flesh	māṃsá	242
+654	Hnd	flesh	mā̃s	242
+655	aGr	flesh	κρέας	243
+656	rGr	flesh	κρέας	243
+657	oIs	flesh	hold	244
+658	Bkm	flesh	[kjøtt]L	245
+659	oIr	flesh	feóil	246
+660	rIr	flesh	feoil	246
+661	Itn	flesh	carne	247
+662	Lat	flesh	carō	247
+663	Hit	flesh	G	248
+664	Ave	flesh	G	249
+665	Hnd	flesh	(dialects)	250
+666	Lat	flesh	(vivum)	251
+667	Ave	flesh	(gav)	251
+#
+668	rIr	fly	eitil	252
+669	aGr	fly	πέτομαι	252
+670	rGr	fly	πετώ	252
+671	Arm	fly	t’ṙč̣-	252
+672	Hit	fly	pattai	252
+673	Ave	fly	patǝṇti	252
+674	San	fly	pát-ati	252
+675	oIs	fly	fljúga	253
+676	Bkm	fly	fly	253
+677	oIr	fly	fo-luathar	253
+678	ToB	fly	plu(s)	253
+679	San	fly	(plávatē )	253
+680	Rus	fly	лет-ать	254
+681	Lit	fly	(lė̃kti)	254
+682	Lit	fly	skr(a)id-	255
+683	Itn	fly	volare	256
+684	Lat	fly	< volo	256
+685	Alb	fly	[flutúroj] L	257
+686	Hit	fly	(St -)	258
+687	Hnd	fly	uṛnā	258
+#
+688	Lit	foot	pėda	259
+689	oIs	foot	fótr	259
+690	Bkm	foot	fot	259
+691	Itn	foot	piede	259
+692	Lat	foot	pēs	259
+693	aGr	foot	πούς	259
+694	rGr	foot	πόδι	259
+695	Arm	foot	(v)ot-k’	259
+696	Hit	foot	pat-	259
+697	ToB	foot	B paiyye	259
+698	Ave	foot	pad	259
+699	San	foot	pād	259
+700	Hnd	foot	pair	259
+701	Rus	foot	ступня (стопа)	260
+702	Arm	foot	(tat)	260
+703	oIr	foot	(īs)cos	261
+704	rIr	foot	cos	261
+705	Alb	foot	[këmbë] L	262
+#
+706	Rus	full	полный	263
+707	Lit	full	pìlnas	263
+708	oIs	full	fullr	263
+709	Bkm	full	full	263
+710	oIr	full	lān	263
+711	rIr	full	lán	263
+712	Itn	full	pieno	263
+713	Lat	full	plēnus	263
+714	Alb	full	plotë	263
+715	aGr	full	πλέος	263
+716	Arm	full	li-k’ə	263
+717	Ave	full	pərənō	263
+718	San	full	pūrṇá	263
+719	Hnd	full	pūrṇa	263
+720	rGr	full	γεμάτος	264
+721	Hit	full	su(w)u	265
+722	ToB	full	[ṣlyaṣṣe]	266
+#
+723	Rus	give	да(вать)	267
+724	Lit	give	dúo(s)ti	267
+725	Itn	give	dare	267
+726	Lat	give	dō	267
+727	Alb	give	(Aor da-shë)	267
+728	aGr	give	δίδωμι	267
+729	rGr	give	δίνω	267
+730	Arm	give	ta-l/m	267
+731	ToB	give	wäs-	267
+732	Ave	give	dadāiti	267
+733	San	give	dá-dāti	267
+734	Hnd	give	denā	267
+735	oIs	give	gefa	268
+736	Bkm	give	gi	268
+737	oIr	give	do-beir	269
+738	rIr	give	tabhair	269
+739	Alb	give	(j)ap	270
+740	Hit	give	p-ai	271
+741	ToB	give	(ai-/āyu)?	271
+#
+742	oIr	good	(so-, su-L)	272
+743	rIr	good	(so-)	272
+744	aGr	good	ἐΰς	272
+745	Hit	good	āššu-š	272
+746	ToB	good	( kā-suA)??	272
+747	Ave	good	(vaŋ)hu	272
+748	San	good	(vá-)su	272
+749	Lit	good	gẽras	273
+750	ToB	good	kartseB	273
+751	Rus	good	[хороший]	274
+752	Ave	good	(hu-bađra)	274
+753	San	good	(bhadrá)	274
+754	oIs	good	góðr	275
+755	Bkm	good	god	275
+756	oIr	good	maith	276
+757	rIr	good	maith	276
+758	Itn	good	buono <	277
+759	Lat	good	bonus	277
+760	Alb	good	mirë [L?]	278
+761	rGr	good	καλός	279
+762	Arm	good	lav (bari)	280
+763	oIr	good	(fō)	281
+764	San	good	(vásu)	281
+765	Hnd	good	[acchā]	282
+766	Ave	good	(hu-bađra)	283
+767	San	good	(bhadrá)	283
+#
+768	oIs	grease, fat	f(e)ita	284
+769	Bkm	grease, fat	[fett] <Swe	284
+770	oIr	grease, fat	íth	284
+771	Itn	grease, fat	(pingue adj)	284
+772	Lat	grease, fat	(pingue)	284
+773	aGr	grease, fat	(πῑ-αρ)	284
+774	Ave	grease, fat	pīvah	284
+775	San	grease, fat	pī́vas	284
+776	Rus	grease, fat	жир	285
+777	Lit	grease, fat	taukas	286
+778	rIr	grease, fat	saill	287
+779	Itn	grease, fat	[adip|e]	288
+780	Lat	grease, fat	[adeps]	288
+781	Alb	grease, fat	dhjamë	289
+782	aGr	grease, fat	δημός	289
+783	rGr	grease, fat	λίπους	290
+784	Arm	grease, fat	[č̣arp]	291
+785	Hit	grease, fat	[sakan] L	292
+786	Alb	grease, fat	(gjalp)	293
+787	ToB	grease, fat	ṣalyp(e)	293
+788	San	grease, fat	(sarpís)	293
+789	Hnd	grease, fat	[carbī]	294
+790	Rus	grease, fat	(smetana)	295
+791	aGr	grease, fat	(μύρον)	295
+792	Lit	grease, fat	(riebelai)	296
+793	rIr	grease, fat	(bealadh)	297
+794	rIr	grease, fat	(ramhar)	298
+795	Itn	grease, fat	( grasso)	299
+796	Hit	grease, fat	(app-uzi)	300
+797	Hit	grease, fat	[talka] (Št)?	301
+798	San	grease, fat	(mḗdas)	302
+#
+799	Rus	green	зелёный	303
+800	Lit	green	želiù/ žãlia-	303
+801	oIr	green	glas	303
+802	rIr	green	glass	303
+803	aGr	green	χλωρός	303
+804	Ave	green	Mh zairi	303
+805	San	green	hárita	303
+806	Hnd	green	harā	303
+807	oIs	green	grønn	304
+808	Bkm	green	grønn	304
+809	Itn	green	verde	305
+810	Lat	green	viridis	305
+811	Alb	green	[gjelbër]	306
+812	rGr	green	πράσινος	307
+813	Arm	green	[kanačʿ] ?	308
+814	Hit	green	[ḫāḫḫall-]	309
+815	ToB	green	[motartstse]	310
+#
+816	Rus	hair	волосы	311
+817	oIr	hair	folt	311
+818	rIr	hair	(folt)	311
+819	Ave	hair	varəsa	311
+820	Hnd	hair	bāl	311
+821	Lit	hair	pláuka-s	312
+822	San	hair	(pula)?	312
+823	oIs	hair	hár	313
+824	Bkm	hair	hår	313
+825	rIr	hair	gruaig(ul)	314
+826	Itn	hair	pelo	315
+827	Lat	hair	(pilus)	315
+828	San	hair	(pula)?	315
+829	Itn	hair	(capelli ‘of head’)	316
+830	Lat	hair	capill|i	316
+831	Alb	hair	[qime]L	317
+832	aGr	hair	τρίχες	318
+833	rGr	hair	μαλλιά	319
+834	Lit	hair	(Lav mati)	320
+835	Arm	hair	[maz]	320
+836	Hit	hair	[tetana-] L	321
+837	Lit	hair	(Lav mati)	322
+838	ToB	hair	B matsi	322
+839	Lat	hair	(caesaries)	323
+840	ToB	hair	(śākuA)	323
+841	Ave	hair	(gaića)	323
+842	San	hair	kéśa-	323
+843	Hnd	hair	(keś)	323
+844	Ave	hair	(gaona-)	324
+#
+845	Alb	hand	dorë	325
+846	aGr	hand	χείρ	325
+847	rGr	hand	χέρι	325
+848	Arm	hand	dseṙ-k/n	325
+849	Hit	hand	kessar	325
+850	ToB	hand	(t)sar	325
+851	Ave	hand	zasta	325
+852	San	hand	hásta	325
+853	Hnd	hand	hāth	325
+854	Rus	hand	рука =	326
+855	Lit	hand	ranka	326
+856	oIs	hand	hǫnd	327
+857	Bkm	hand	[hånd]	327
+858	oIr	hand	lám	328
+859	rIr	hand	lámh	328
+860	San	hand	(kará)	328
+861	Rus	hand	?	329
+862	Itn	hand	mano	329
+863	Lat	hand	manus	329
+864	Alb	hand	[marr ‘take’]	329
+865	aGr	hand	(μάρη)	329
+#
+866	Lat	head	(cerebrum)	330
+867	Alb	head	(krye t s)	330
+868	Ave	head	sarah-	330
+869	San	head	śíras	330
+870	Hnd	head	[sar] (Per>L)	330
+871	oIs	head	hǫfuð	331
+872	Bkm	head	hode	331
+873	Lat	head	caput	331
+874	San	head	(kapā́la ‘Hirnschale’)	331
+875	aGr	head	κεφαλή	332
+876	rGr	head	κεφάλι	332
+877	ToB	head	( A śpāl )	332
+878	Rus	head	golová	333
+879	Lit	head	galva	333
+880	Lat	head	(calva)	333
+881	Arm	head	glux	333
+882	oIr	head	[cenn]	334
+883	rIr	head	[ceann]	334
+884	Itn	head	testa	335
+885	Alb	head	[kokë]L	336
+886	Hit	head	haršar	337
+887	ToB	head	[B āśce]?	338
+#
+888	Rus	hear	slušat	339
+889	oIr	hear	ro-cluine-thar	339
+890	rIr	hear	cluin	339
+891	Lat	hear	(inclutus)	339
+892	aGr	hear	(κλῦθι!)	339
+893	Arm	hear	lse-l	339
+894	ToB	hear	B klyaus-	339
+895	Ave	hear	surunaoiti	339
+896	San	hear	śr̥ṇṓti	339
+897	Hnd	hear	sunnā	339
+898	oIs	hear	heyra	340
+899	Bkm	hear	høre	340
+900	aGr	hear	ἀκούω	340
+901	rGr	hear	ακούω	340
+902	Lit	hear	girdėti	341
+903	Itn	hear	udire	342
+904	Lat	hear	audio	342
+905	Alb	hear	[dëgjoj]L	343
+906	Hit	hear	istamass	344
+907	Ave	hear	(guš)	344
+#
+908	Rus	heart	serdce	345
+909	Lit	heart	širdìs	345
+910	oIs	heart	hjarta	345
+911	Bkm	heart	hjerte	345
+912	oIr	heart	cride	345
+913	rIr	heart	croi	345
+914	Itn	heart	cuore	345
+915	Lat	heart	cor	345
+916	aGr	heart	καρδίᾱ	345
+917	rGr	heart	καρδιά	345
+918	Arm	heart	sirt	345
+919	Hit	heart	kard	345
+920	Ave	heart	zǝrǝđaiia-	345
+921	San	heart	hŕ̥d-	345
+922	Alb	heart	zemër	346
+923	ToB	heart	arañce	347
+924	Hnd	heart	[dil]	348
+#
+925	oIs	horn	horn	349
+926	Bkm	horn	horn	349
+927	Itn	horn	corno	349
+928	Lat	horn	cornū	349
+929	aGr	horn	κέρας	349
+930	rGr	horn	κέρατο	349
+931	Hit	horn	karāwar	349
+932	ToB	horn	B krorīya	349
+933	Ave	horn	srū	349
+934	San	horn	śṛ́ṅga	349
+935	Hnd	horn	sī̃g	349
+936	Rus	horn	rog =	350
+937	Lit	horn	rãgas	350
+938	oIr	horn	[adarc]L	351
+939	rIr	horn	[adharc]L	351
+940	Alb	horn	bri-ri	352
+941	Arm	horn	[eġǰewr]	353
+#
+942	Rus	hot	žarkij	354
+943	oIs	hot	(varmr)	354
+944	Lat	hot	(fornus??)	354
+945	Alb	hot	nxehtë	354
+946	aGr	hot	θερμός	354
+947	Arm	hot	(ǰerm)	354
+948	Ave	hot	garǝma	354
+949	San	hot	(gharma)	354
+950	Hnd	hot	[garm]	354
+951	Rus	hot	(toplъ)	355
+952	oIr	hot	tē	355
+953	rIr	hot	te	355
+954	Lat	hot	(tepidus)	355
+955	Ave	hot	(tāpaiti )	355
+956	San	hot	(tap)	355
+957	Lit	hot	karštas	356
+958	oIs	hot	heitr	357
+959	Bkm	hot	[het]	357
+960	Itn	hot	caldo	358
+961	Lat	hot	calidus	358
+962	rGr	hot	ζεστός	359
+963	Arm	hot	tak’	360
+964	Hit	hot	a(i)-ant	361
+965	ToB	hot	[B emalle]	362
+966	San	hot	uṣṇá-	363
+#
+984	oIr	kill	( gon-)	366
+985	aGr	kill	(θεν- ἔπεφνον)	366
+986	Arm	kill	(ǰnjem)	366
+987	Hit	kill	kuen-	366
+988	Ave	kill	jainti	366
+989	San	kill	hán-ti	366
+990	oIr	kill	(marbaid)	367
+991	rIr	kill	maraigh	367
+992	Ave	kill	(marək- )	367
+993	Hnd	kill	māraṇ	367
+994	Rus	kill	у-бить	368
+995	Lat	kill	(interficio)	368
+996	Lit	kill	žudyti	369
+997	oIs	kill	drepa	370
+998	Bkm	kill	drepe	370
+999	oIr	kill	orcaid	371
+1000	Arm	kill	(ehar-, harkanem)	371
+1001	Itn	kill	uccidere	372
+1002	Lat	kill	(occīdere)	372
+1003	Lat	kill	necare	373
+1004	ToB	kill	(nkäṣ)	373
+1005	Alb	kill	[vras]L	374
+1006	aGr	kill	κτείνω	375
+1007	rGr	kill	σκοτώνω	375
+1008	Arm	kill	[span-el]	376
+1009	ToB	kill	kau-(ṣäṃ)B	377
+1010	Lit	kill	(užmùšti)	378
+#
+1011	oIs	knee	kné	379
+1012	Bkm	knee	kne	379
+1013	oIr	knee	glún	379
+1014	rIr	knee	glúin	379
+1015	Itn	knee	ginocchio	379
+1016	Lat	knee	genū	379
+1017	Alb	knee	gjuri	379
+1018	aGr	knee	γόνα/υ	379
+1019	rGr	knee	γόνατο	379
+1020	Arm	knee	cunk’	379
+1021	Hit	knee	genu	379
+1022	ToB	knee	B keni	379
+1023	Ave	knee	žnū-m	379
+1024	San	knee	jā́nu	379
+1025	Rus	knee	колено	380
+1026	Lit	knee	kẽlis	380
+1027	Hnd	knee	[ghuṭnā]	381
+#
+1028	Rus	know	(věditi)	382
+1029	Lit	know	(veidmi)	382
+1030	oIs	know	vita	382
+1031	Bkm	know	vite	382
+1032	oIr	know	ro-fitir	382
+1033	rIr	know	tá a fhios ag	382
+1034	Lat	know	(vid-)	382
+1035	aGr	know	οἶδα	382
+1036	Arm	know	gite-m ‘find’	382
+1037	Ave	know	vaēđa,vid	382
+1038	San	know	véda	382
+1039	Rus	know	знать	383
+1040	Lit	know	žinóti	383
+1041	Itn	know	(conoscere)	383
+1042	Lat	know	(g)nōscō	383
+1043	Alb	know	(njoh)	383
+1044	aGr	know	(ἀγνοέω, γιγνώσκω)	383
+1045	Arm	know	(cancay)	383
+1046	Hit	know	kaness	383
+1047	ToB	know	(knā(n)A	383
+1048	Ave	know	(xšnā ‘recogn’))	383
+1049	San	know	(jñā )	383
+1050	Hnd	know	jān-	383
+1051	Itn	know	sapere	384
+1052	Lat	know	scio	385
+1053	Hit	know	(sākk-)	385
+1054	Alb	know	dī	386
+1055	rGr	know	ξέρω	387
+1056	ToB	know	B kärs-	388
+1057	Lit	know	(pa-žì)	389
+1058	Arm	know	(imanal)	390
+#
+1059	oIs	leaf	(blað)	391
+1060	Bkm	leaf	blad	391
+1061	Itn	leaf	foglia	391
+1062	Lat	leaf	folium	391
+1063	aGr	leaf	φύλλον	391
+1064	rGr	leaf	φύλλο	391
+1065	ToB	leaf	B pilta	391
+1066	Rus	leaf	[лист]	392
+1067	Lit	leaf	(laĩškas)	392
+1068	Lit	leaf	P lapas	393
+1069	oIs	leaf	lauf	393
+1070	oIr	leaf	duille	394
+1071	rIr	leaf	duille	394
+1072	Alb	leaf	gjethe	395
+1073	Arm	leaf	[terew]	396
+1074	Hit	leaf	parstu- 16	397
+1075	Ave	leaf	Y varəka-	398
+1076	Rus	leaf	(бӕлас)	399
+1077	San	leaf	[palāśa]	399
+1078	San	leaf	(páttra)>	400
+1079	Hnd	leaf	pattā	400
+1080	San	leaf	(parna)>	401
+1081	Hnd	leaf	(paṇṇa)	401
+1082	Hit	leaf	(hurpašta-)	402
+#
+1083	Rus	lie	ležatь	403
+1084	oIs	lie	liggja	403
+1085	Bkm	lie	ligge	403
+1086	oIr	lie	laigid	403
+1087	rIr	lie	luigh-	403
+1088	Lat	lie	(Fl: lecet)	403
+1089	aGr	lie	(λέκτο)	403
+1090	Hit	lie	(lagari, Pok alone)	403
+1091	ToB	lie	B ly-äk	403
+1092	aGr	lie	κεῖμαι	404
+1093	Hit	lie	ki-	404
+1094	Ave	lie	saēte	404
+1095	San	lie	śay, śḗtē	404
+1096	Lit	lie	gulėti	405
+1097	Itn	lie	giacere	406
+1098	Lat	lie	iaceo	406
+1099	Alb	lie	shtrihem	407
+1100	rGr	lie	ξαπλώνω	408
+1101	Arm	lie	[paṙkel]	409
+1102	Hnd	lie	leṭnā	410
+1103	Lat	lie	(cubō)	411
+#
+1104	Lit	liver	(yeknā)	412
+1105	Lat	liver	iecur	412
+1106	aGr	liver	ἧπαρ	412
+1107	Arm	liver	leard, lyard	412
+1108	Ave	liver	yākarǝ	412
+1109	San	liver	yákr̥t	412
+1110	Hnd	liver	yakṛt	412
+1111	Rus	liver	печень	413
+1112	Lit	liver	kẽpenys	413
+1113	oIs	liver	lifr	414
+1114	Bkm	liver	lever	414
+1115	oIr	liver	[áe] L	415
+1116	rIr	liver	[ae] L	415
+1117	Itn	liver	fegato	416
+1118	Alb	liver	[mëlçi]L	417
+1119	rGr	liver	συκώτι	418
+1120	Hit	liver	[lessi] L	419
+1121	ToB	liver	B wästarye	420
+#
+1122	Rus	long	dlinnyj	421
+1123	Lit	long	ilg-a	421
+1124	oIs	long	langr	421
+1125	Bkm	long	lang	421
+1126	Itn	long	lungo	421
+1127	Lat	long	longus	421
+1128	Alb	long	gjatë	421
+1129	aGr	long	δολιχός	421
+1130	Hit	long	taluki	421
+1131	Ave	long	darǝga	421
+1132	San	long	dīrghá	421
+1133	Hnd	long	(dīrghá)	421
+1134	oIr	long	fota	422
+1135	rIr	long	fada	422
+1136	rGr	long	μακρύς	423
+1137	Arm	long	(j)erkar(in)	424
+1138	Arm	long	(barjr ‚tall‘)	425
+1139	Hit	long	(parkus ‘tall’)	425
+1140	ToB	long	B pärkare	425
+1141	Ave	long	(bərəzant ‘tall’)	425
+1142	San	long	(bṛhant)	425
+1143	Hnd	long	lambā	426
+#
+1144	Rus	louse	вошь (Луиш bio)	427
+1145	Lit	louse	utė̃-lė	427
+1146	oIs	louse	lús	427
+1147	Bkm	louse	lus	427
+1148	ToB	louse	(luwa)	427
+1149	Ave	louse	St,Ri - na	427
+1150	San	louse	yūkā	427
+1151	Hnd	louse	jū̃	427
+1152	oIr	louse	[sar]	428
+1153	oIr	louse	(míl étgudo)	429
+1154	rIr	louse	míol	429
+1155	Itn	louse	pidocchio	430
+1156	Lat	louse	pēdi(culu)s	430
+1157	Alb	louse	morri	431
+1158	aGr	louse	φθείρ	432
+1159	rGr	louse	ψείρα	432
+1160	Alb	louse	Pok(ergjiz)	433
+1161	Arm	louse	(v)oǰil	433
+1162	Hit	louse	G	434
+1163	ToB	louse	[B pärśeri]	435
+1164	Ave	louse	spiš-	436
+1165	rIr	louse	(cnis)	437
+#
+1166	Lat	man	(Osc:nerum)	438
+1167	Alb	man	(njeri)	438
+1168	aGr	man	ἀνήρ	438
+1169	rGr	man	άνδρας	438
+1170	Arm	man	(P: air)	438
+1171	Ave	man	nar	438
+1172	San	man	nár	438
+1173	Hnd	man	nar	438
+1174	Lit	man	výras	439
+1175	oIs	man	(verr)	439
+1176	oIr	man	fer	439
+1177	rIr	man	fear	439
+1178	Lat	man	vir	439
+1179	Ave	man	(vīra)	439
+1180	San	man	(vīrá)	439
+1181	Rus	man	mužčina	440
+1182	Bkm	man	mann	440
+1183	San	man	(mánu-)	440
+1184	oIs	man	karl	441
+1185	Itn	man	uomo	442
+1186	Lat	man	(homo)	442
+1187	Alb	man	būrrë	443
+1188	Arm	man	tġamard	444
+1189	Hit	man	pesan	445
+1190	ToB	man	B eṅkwe	446
+1191	Ave	man	(mašya)	447
+1192	Hnd	man	[ādmī]	448
+#
+1193	oIs	many	(fjǫl)	449
+1194	oIr	many	il-	449
+1195	rIr	many	a lán	449
+1196	Lat	many	(plēnus)	449
+1197	aGr	many	πολύί	449
+1198	rGr	many	πολ-ι	449
+1199	Ave	many	paru	449
+1200	San	many	purú	449
+1201	Rus	many	многие	450
+1202	oIs	many	margir	450
+1203	Bkm	many	mange	450
+1204	aGr	many	(μέγας)	451
+1205	Hit	many	mēkki 24	451
+1206	ToB	many	māk(a) 24	451
+1207	Ave	many	(māk-)	451
+1208	San	many	(máhi)	451
+1209	Lit	many	daũg	452
+1210	Itn	many	molti	453
+1211	Lat	many	multi	453
+1212	Alb	many	[shūmë]L	454
+1213	Arm	many	[šat]	455
+1214	San	many	(bahú)	456
+1215	Hnd	many	bahut	456
+#
+1216	Lit	moon	mė́nulis	457
+1217	oIs	moon	máni	457
+1218	Bkm	moon	måne	457
+1219	aGr	moon	(μήνη)	457
+1220	ToB	moon	mañ;meñe	457
+1221	Ave	moon	mā̊(ŋha-)	457
+1222	San	moon	mā́s	457
+1223	Rus	moon	лунá	458
+1224	Itn	moon	luna	458
+1225	Lat	moon	lūna	458
+1226	Arm	moon	lusin	458
+1227	Alb	moon	hënë	459
+1228	San	moon	(candrá-)	459
+1229	Hnd	moon	cā̃d, chānd	459
+1230	oIr	moon	ésca	460
+1231	rIr	moon	gealach	461
+1232	aGr	moon	σελήνη	462
+1233	rGr	moon	φεγγάρι	463
+1234	Hit	moon	arma	464
+#
+1235	Rus	mountain	гора	465
+1236	Lit	mountain	(nugarà)	465
+1237	Alb	mountain	(gur)	465
+1238	aGr	mountain	(δειρός)	465
+1239	Ave	mountain	gairi-	465
+1240	San	mountain	girí	465
+1241	Lit	mountain	kálna-s	466
+1242	Lat	mountain	(collis)	466
+1243	aGr	mountain	(κολωνός)	466
+1244	Arm	mountain	le(a)ṙ(n)?	466
+1245	Hit	mountain	(kalm-ara)??	466
+1246	oIs	mountain	fjall	467
+1247	Bkm	mountain	fjell	467
+1248	oIr	mountain	slíab	468
+1249	rIr	mountain	sliabh	468
+1250	Arm	mountain	(sar ‘summit’)	468
+1251	oIr	mountain	(moned)	469
+1252	Itn	mountain	montagna	469
+1253	Lat	mountain	mōns	469
+1254	oIr	mountain	(mell)	470
+1255	Alb	mountain	mal-i	470
+1256	aGr	mountain	ὄρος	471
+1257	rGr	mountain	βουνό	472
+1258	Hit	mountain	G	473
+1259	ToB	mountain	[B ṣale]	474
+1260	Hit	mountain	(peru-n ‘rock’)	475
+1261	Ave	mountain	(paurvat-)	475
+1262	San	mountain	(parvata)	475
+1263	Hnd	mountain	parvat	475
+1264	Hnd	mountain	(pahāṛ)	476
+#
+1265	Rus	mouth	(usta)	477
+1266	Lit	mouth	(austo)	477
+1267	Lat	mouth	ōs	477
+1268	Hit	mouth	á(y)is	477
+1269	Ave	mouth	āh/åñh/åŋh-ânô	477
+1270	San	mouth	ā́s	477
+1271	Rus	mouth	рот	478
+1272	Lit	mouth	burnà	479
+1273	Arm	mouth	beran	479
+1274	oIs	mouth	munnr	480
+1275	Bkm	mouth	munn	480
+1276	Lat	mouth	(mentum)	480
+1277	oIr	mouth	bél(ā)	481
+1278	rIr	mouth	béal	481
+1279	Itn	mouth	[bocca]L3<	482
+1280	Lat	mouth	(bucca)	482
+1281	Alb	mouth	[gōjë] L	483
+1282	aGr	mouth	στόμα	484
+1283	rGr	mouth	στόμα	484
+1284	ToB	mouth	koy(n)	485
+1285	San	mouth	(mukha)	486
+1286	Hnd	mouth	[mũh]	486
+#
+1287	Rus	nail(s) (claw)	nogotь	487
+1288	Lit	nail(s) (claw)	nãgas	487
+1289	oIs	nail(s) (claw)	nagl	487
+1290	Bkm	nail(s) (claw)	negl	487
+1291	oIr	nail(s) (claw)	ingen	487
+1292	rIr	nail(s) (claw)	ionga	487
+1293	Itn	nail(s) (claw)	unghia	487
+1294	Lat	nail(s) (claw)	unguis	487
+1295	aGr	nail(s) (claw)	ὄνυξ	487
+1296	rGr	nail(s) (claw)	νύχι (+)	487
+1297	Arm	nail(s) (claw)	eġung	487
+1298	Hit	nail(s) (claw)	sankuwāi	487
+1299	ToB	nail(s) (claw)	mekwa	487
+1300	Ave	nail(s) (claw)	(I-I nakh- nur Per)	487
+1301	San	nail(s) (claw)	nakh	487
+1302	Hnd	nail(s) (claw)	nakh	487
+1303	Alb	nail(s) (claw)	thua (çapua)	488
+1304	Ave	nail(s) (claw)	BH: srū-	489
+1305	Arm	nail(s) (claw)	[čank]?	490
+1306	Hnd	nail(s) (claw)	[changul]-	490
+#
+1307	Rus	name	имя	491
+1308	Lit	name	(emnes)	491
+1309	oIs	name	nafn	491
+1310	Bkm	name	[navn]	491
+1311	oIr	name	ainmm	491
+1312	rIr	name	ainm	491
+1313	Itn	name	nome	491
+1314	Lat	name	nōmen	491
+1315	Alb	name	émër	491
+1316	aGr	name	ὄνομα	491
+1317	rGr	name	όνομα	491
+1318	Arm	name	anun	491
+1319	Hit	name	lāman	491
+1320	ToB	name	ñem	491
+1321	Ave	name	nāma(n)	491
+1322	San	name	nā́man	491
+1323	Hnd	name	nām	491
+1324	Lit	name	vardas	492
+#
+1325	oIr	neck	(muiné)	493
+1326	rIr	neck	muineál	493
+1327	Ave	neck	manaoʮrī	493
+1328	San	neck	(mányā ), manaoθrī	493
+1329	Lit	neck	kãklas	494
+1330	oIs	neck	hals	494
+1331	Bkm	neck	hals	494
+1332	Itn	neck	collo	494
+1333	Lat	neck	collum	494
+1334	ToB	neck	[ś-?]	494
+1335	Rus	neck	шея	495
+1336	Alb	neck	(zverk-)	495
+1337	Ave	neck	St: griva? (garǝman)	495
+1338	San	neck	(grīvā́ )	495
+1339	oIr	neck	brá(i)g(a)e	496
+1340	rIr	neck	(braid)	496
+1341	Ave	neck	UT barəša-	496
+1342	Alb	neck	[qafë]L	497
+1343	aGr	neck	αὐχήν	498
+1344	Arm	neck	viz	498
+1345	rGr	neck	λαιμός	499
+1346	Hit	neck	ku(wa)ttar	500
+1347	ToB	neck	krāñi	501
+1348	Hnd	neck	[gardan]	502
+#
+1349	Rus	new	новый	503
+1350	Lit	new	naũjas	503
+1351	oIs	new	nýr	503
+1352	Bkm	new	ny	503
+1353	oIr	new	nūë, núa	503
+1354	rIr	new	nua	503
+1355	Itn	new	nuovo	503
+1356	Lat	new	novus	503
+1357	aGr	new	νέ(F)ος	503
+1358	Arm	new	nor	503
+1359	Hit	new	nēwa	503
+1360	ToB	new	ñu-(we)	503
+1361	Ave	new	nava	503
+1362	San	new	náva	503
+1363	Hnd	new	nayā	503
+1364	Alb	new	i ri	504
+1365	rGr	new	καιν(ούργι)ος	505
+#
+1366	Rus	night	ночь	506
+1367	Lit	night	naktìs	506
+1368	oIs	night	nótt	506
+1369	Bkm	night	natt	506
+1370	oIr	night	?(nocht )	506
+1371	Itn	night	notte	506
+1372	Lat	night	nox	506
+1373	Alb	night	nātë	506
+1374	aGr	night	νύξ	506
+1375	rGr	night	νύχτα	506
+1376	Hit	night	(nekuz ‘dawn/afterglow’)	506
+1377	ToB	night	(naktim)	506
+1378	San	night	(nákt)	506
+1379	Hit	night	išpant	507
+1380	Ave	night	xšap	507
+1381	San	night	kṣáp	507
+1382	oIr	night	adaig [L?]	508
+1383	rIr	night	>oíche	508
+1384	Arm	night	gišer	509
+1385	ToB	night	B yṣīye	510
+1386	aGr	night	(ψέφος)	511
+1387	Hnd	night	rāt	511
+#
+1388	Rus	nose	нос	512
+1389	Lit	nose	nósis	512
+1390	oIs	nose	(nǫs, nasar)	512
+1391	Bkm	nose	[nese]<da	512
+1392	Itn	nose	naso	512
+1393	Lat	nose	nāsus, nāris	512
+1394	Ave	nose	nāh	512
+1395	San	nose	nā́s-	512
+1396	Hnd	nose	nāk	512
+1397	oIs	nose	nef	513
+1398	oIr	nose	srón	514
+1399	rIr	nose	#NAME?	514
+1400	Alb	nose	hūndë	515
+1401	aGr	nose	ῥίς  [L?]	516
+1402	rGr	nose	μύτη	517
+1403	Arm	nose	[ k’itʽ ]	518
+1404	Hit	nose	[ titita ] L	519
+1405	ToB	nose	meli	520
+#
+1406	Rus	not	не	521
+1407	Lit	not	nè, ni	521
+1408	oIs	not	ne	521
+1409	oIr	not	ní, na[ch]	521
+1410	rIr	not	ní	521
+1411	Itn	not	non	521
+1412	Lat	not	nōn,nĕ-	521
+1413	Alb	not	nūk	521
+1414	aGr	not	(νε-)	521
+1415	Hit	not	na-tta	521
+1416	ToB	not	(a(n/m)-)	521
+1417	Ave	not	na(ēda)	521
+1418	San	not	ná	521
+1419	Hnd	not	nahī̃	521
+1420	Bkm	not	[ikke]	522
+1421	aGr	not	οὐ(κ)	523
+1422	Arm	not	(vo)č-	523
+1423	rGr	not	δεν	524
+1424	Alb	not	(mos)	525
+1425	rGr	not	(μη(ν)	525
+1426	Arm	not	(mi)	525
+1427	ToB	not	AB mā-	525
+1428	Ave	not	(mā-)	525
+1429	San	not	(mā-)	525
+#
+1430	Rus	one	один	526
+1431	Lit	one	víena-	526
+1432	oIs	one	einn	526
+1433	Bkm	one	en	526
+1434	oIr	one	ōen	526
+1435	rIr	one	(a h)aon	526
+1436	Itn	one	uno	526
+1437	Lat	one	oinos	526
+1438	aGr	one	(οἶνη)	526
+1439	Hit	one	[ai-ka = L < Mit]	526
+1440	Ave	one	aēva	526
+1441	San	one	éka	526
+1442	Hnd	one	ek	526
+1443	Lat	one	(semper)	527
+1444	Alb	one	një	527
+1445	aGr	one	εἷς	527
+1446	rGr	one	ένα(ς)	527
+1447	Arm	one	mi, mēk	527
+1448	Hit	one	(ēs?)	527
+1449	ToB	one	sasA, seB	527
+1450	Hit	one	šiya	528
+1451	ToB	one	“?”	528
+#
+1452	Rus	path	(ппть)	529
+1453	Lat	path	(pons)	529
+1454	Ave	path	pantā̊	529
+1455	San	path	pánthā	529
+1456	rIr	path	bóthar	530
+1457	Lat	path	(iter)?	530
+1458	Hit	path	itar	530
+1459	ToB	path	ytār {f}	530
+1460	oIs	path	vegr	531
+1461	Bkm	path	vei	531
+1462	Alb	path	ūdhë	531
+1463	Rus	path	доро-га	532
+1464	Lit	path	kẽlias	533
+1465	oIr	path	sét	534
+1466	Itn	path	via	535
+1467	Lat	path	via	535
+1468	aGr	path	ὁδός	536
+1469	rGr	path	δρόμος	537
+1470	Arm	path	[čanaparh]	538
+1471	Ave	path	(parθ-)	538
+1472	Hnd	path	saṛak	539
+1473	Hit	path	(pal-sa-)	540
+#
+1474	Rus	person	(muž ‘man’)	541
+1475	oIs	person	maðr	541
+1476	Bkm	person	menns-ke	541
+1477	Ave	person	mašya	541
+1478	San	person	mánu-s	541
+1479	Hnd	person	(manushya)	541
+1480	Lit	person	žmōgù-s	542
+1481	oIs	person	(gumi)	542
+1482	oIr	person	duine	542
+1483	rIr	person	duine	542
+1484	Itn	person	uomo	542
+1485	Lat	person	homō	542
+1486	Ave	person	(tēkan)	542
+1487	Rus	person	чело-век	543
+1488	San	person	(kulam)	543
+1489	Alb	person	njeríu	544
+1490	Arm	person	anj	544
+1491	aGr	person	ἄνθρωπος	545
+1492	rGr	person	άνθρωπος	545
+1493	Hit	person	antuwaḫḫas	546
+1494	ToB	person	B śaumo	547
+1495	Hnd	person	vyakti	548
+1496	aGr	person	(μορτός?)	549
+1497	Arm	person	mard	549
+1498	Ave	person	(maša)	549
+1499	San	person	(márta)	549
+1500	Ave	person	(fravaši-)	550
+#
+1501	oIs	rain	(ūr )?	551
+1502	Alb	rain	(vrëndë)	551
+1503	Ave	rain	vāra	551
+1504	San	rain	varṣá	551
+1505	Hnd	rain	bāriś	551
+1506	Lit	rain	(oPr: suge,sūjē)	552
+1507	Alb	rain	shī	552
+1508	aGr	rain	(ὑετός ‘shower’)	552
+1509	ToB	rain	sweseB	552
+1510	Rus	rain	дождь	553
+1511	Lit	rain	lietù-s	554
+1512	oIs	rain	regn	555
+1513	Bkm	rain	regn	555
+1514	oIr	rain	bráen	556
+1515	rIr	rain	(N) fear-thainn	557
+1516	Itn	rain	pioggia	558
+1517	Lat	rain	pluvia	558
+1518	aGr	rain	βροχή	559
+1519	rGr	rain	βροχή	559
+1520	Arm	rain	[anjrew]	560
+1521	Hit	rain	ḫē(y)u-	561
+#
+1522	Lit	red	raũd(on)as	562
+1523	oIs	red	rauðr	562
+1524	Bkm	red	[rød]	562
+1525	oIr	red	(rūad)	562
+1526	Itn	red	rosso	562
+1527	Lat	red	ruber	562
+1528	aGr	red	ἐρυθρός	562
+1529	ToB	red	ratreB	562
+1530	Ave	red	raoiđita	562
+1531	San	red	rudhirá	562
+1532	Hnd	red	lal (?)	562
+1533	Rus	red	красный	563
+1534	oIr	red	derg	564
+1535	rIr	red	dearg	564
+1536	Alb	red	[kuq]	565
+1537	rGr	red	[κόκκινος]	566
+1538	Arm	red	[karmir]	567
+1539	Hit	red	[mit-]?	568
+#
+1540	oIs	root	rót	569
+1541	Bkm	root	rot	569
+1542	oIr	root	frēn	569
+1543	rIr	root	fréamh	569
+1544	Itn	root	radice	569
+1545	Lat	root	rādīx	569
+1546	Alb	root	rrënjë	569
+1547	aGr	root	ῥίζα	569
+1548	rGr	root	ρίζα	569
+1549	Hit	root	(su?)	569
+1550	ToB	root	?witsakoB	569
+1551	Ave	root	varšak	569
+1552	Rus	root	корень	570
+1553	Lit	root	šaknì-s	571
+1554	Arm	root	arm-at	572
+1555	Hit	root	surka,i	573
+1556	San	root	mū́la	574
+1557	Hnd	root	jaṛ	575
+#
+1558	Rus	round	круглый	576
+1559	oIs	round	kringlóttr	576
+1560	oIr	round	cruin(n|d)	576
+1561	rIr	round	cruinn	576
+1562	Lat	round	(curvus)	576
+1563	aGr	round	(κίρκος)	576
+1564	Ave	round	P skarəna	576
+1565	Lat	round	(globus)	577
+1566	Arm	round	klor	577
+1567	San	round	(gula)	577
+1568	Hnd	round	gol	577
+1569	Lit	round	Kr: apvalùs	578
+1570	Bkm	round	[rund] L	579
+1571	Itn	round	rotondo	579
+1572	Lat	round	rotundus	579
+1573	Alb	round	[rrumbull]L	580
+1574	aGr	round	στρογγυλός	581
+1575	rGr	round	στρογγυλός	581
+1576	Hit	round	G	582
+1577	ToB	round	G	583
+1578	San	round	vartula	584
+1579	Lat	round	(vorsus)	585
+1580	Arm	round	(Ri bolorak?)	586
+#
+1581	Itn	sand	sabbia	587
+1582	Lat	sand	(sabulum ‘grober S’)	587
+1583	aGr	sand	ψάμμος	587
+1584	rGr	sand	άμμος	587
+1585	Arm	sand	av-az	587
+1586	Rus	sand	песок	588
+1587	Ave	sand	pąsnu-(Mh)	588
+1588	San	sand	(pām̐sú)	588
+1589	Itn	sand	(rena)	589
+1590	Lat	sand	(h)arēna	589
+1591	Alb	sand	rërë [L?]	589
+1592	ToB	sand	(below?)	589
+1593	Hnd	sand	ret	589
+1594	Lit	sand	smė̃lis	590
+1595	Bkm	sand	(cf got malma)	590
+1596	oIs	sand	sandr	591
+1597	Bkm	sand	sand	591
+1598	Itn	sand	(= sabbia ?)	591
+1599	oIr	sand	[gainem]	592
+1600	rIr	sand	[gaineamh]	592
+1601	Hit	sand	G	593
+1602	ToB	sand	B warañce	594
+1603	San	sand	(vāluka-)	594
+1604	San	sand	síkatā	595
+#
+1605	Lit	say	(pa)sakýti	596
+1606	oIs	say	segja	596
+1607	Bkm	say	si	596
+1608	Lat	say	(-sequ)	596
+1609	aGr	say	(ἐνέπω)	596
+1610	Lat	say	(voco)	597
+1611	aGr	say	(εἶπον)	597
+1612	ToB	say	B we	597
+1613	Ave	say	vak	597
+1614	San	say	vákti	597
+1615	Rus	say	сказать	598
+1616	oIr	say	as-beir	599
+1617	rIr	say	abair	599
+1618	Rus	say	(говорить)	600
+1619	Itn	say	dire <	600
+1620	Lat	say	dīcō	600
+1621	Rus	say	(говорить)	601
+1622	Alb	say	them	601
+1623	Lat	say	(fārī)	602
+1624	aGr	say	φημί	602
+1625	San	say	(bhana-)	602
+1626	Lat	say	(ai(i)ō)	603
+1627	rGr	say	λέ(γ)ω	603
+1628	ToB	say	(aks-)?	603
+1629	Arm	say	ase-/ml	604
+1630	ToB	say	(palwam)	604
+1631	Ave	say	mrao-mi,mrû-	604
+1632	San	say	bravī-	604
+1633	Rus	say	(tor-tor-)	605
+1634	Lit	say	(tar)	605
+1635	Hit	say	tē(r)	605
+1636	ToB	say	(St: träṅk-A)	605
+1637	Hnd	say	kahnā	606
+1638	Rus	say	(говорить)	607
+1639	aGr	say	(ἐρέω)	607
+1640	aGr	say	(μέμφομαιι)	608
+1641	Hit	say	NH (mema)	608
+#
+1642	Rus	see	виде(ть)	609
+1643	Lit	see	(oLi: véizdmi)	609
+1644	Itn	see	vedere	609
+1645	Lat	see	video	609
+1646	aGr	see	(εἶδον)	609
+1647	Hit	see	(au-s)	609
+1648	oIs	see	sjá	610
+1649	Bkm	see	se	610
+1650	Alb	see	shoh	610
+1651	Hit	see	saku-wāye,a-	610
+1652	oIr	see	{ad-condairc}	611
+1653	rIr	see	--	611
+1654	aGr	see	(δέδορκεν, δέρκομαι)	611
+1655	Arm	see	tes-nel	611
+1656	Ave	see	darəsəm	611
+1657	San	see	(darś-)	611
+1658	Rus	see	(smotri)	612
+1659	Lit	see	(pa)matyti	612
+1660	Lit	see	žiũrě́ti	613
+1661	oIr	see	ad-chi	614
+1662	rIr	see	#NAME?	614
+1663	aGr	see	[βλέπω]	615
+1664	rGr	see	[βλέπω]	615
+1665	oIs	see	(līta?)	616
+1666	ToB	see	AB l(y)äk	616
+1667	Lat	see	(speciō)	617
+1668	Alb	see	(pashë)	617
+1669	aGr	see	(σκέπτομαι)	617
+1670	Ave	see	(spas, pišiiei-?)	617
+1671	San	see	paś-yati	617
+1672	Hnd	see	dekhnā	618
+1673	oIs	see	(līta?)	619
+1674	Ave	see	UT,Ri vaēna-	619
+1675	Ave	see	caš	620
+1676	San	see	cáṣṭe ‘blickt‘	620
+#
+1677	Rus	seed	семя	621
+1678	Lit	seed	sėklà	621
+1679	Itn	seed	seme	621
+1680	Lat	seed	sēmen	621
+1681	ToB	seed	AB sārm	621
+1682	oIr	seed	síl	622
+1683	rIr	seed	síol	622
+1684	Lat	seed	(seges)	622
+1685	oIs	seed	frjó	623
+1686	Bkm	seed	#ERROR!	623
+1687	Alb	seed	[farë]	624
+1688	aGr	seed	σπόρος	625
+1689	rGr	seed	σπόρος	625
+1690	Arm	seed	serm	626
+1691	Hit	seed	[warwalan]	627
+1692	Ave	seed	taoxma(n)	628
+1693	San	seed	[bī́ja ]	629
+1694	Hnd	seed	[bīj]	629
+#
+1695	Rus	sit	сиде(ть)	630
+1696	Lit	sit	sēdḗti	630
+1697	oIs	sit	sitja	630
+1698	Bkm	sit	sitte	630
+1699	oIr	sit	saidid	630
+1700	rIr	sit	sui-m	630
+1701	Itn	sit	sedere	630
+1702	Lat	sit	sedeo	630
+1703	aGr	sit	ἕζομαι	630
+1704	Arm	sit	nst-im	630
+1705	Hit	sit	(šišt)	630
+1706	ToB	sit	ṣäm- ?	630
+1707	Ave	sit	(hiđaiti )	630
+1708	San	sit	(sídati)	630
+1709	Lat	sit	(cf as-nus)	631
+1710	aGr	sit	(ἧσται)	631
+1711	rGr	sit	κάθομαι	631
+1712	Hit	sit	ēs-	631
+1713	ToB	sit	āsk	631
+1714	Ave	sit	āste	631
+1715	San	sit	ā́ste	631
+1716	Alb	sit	rri	632
+1717	Hnd	sit	[baiṭhnā]	633
+#
+1718	Bkm	skin	hud	634
+1719	rIr	skin	(Kym: cwd)	634
+1720	Itn	skin	(b cute)	634
+1721	Lat	skin	cutis	634
+1722	aGr	skin	(σκῦτος ‘skin,leather’)	634
+1723	Rus	skin	кожа	635
+1724	Lit	skin	[ṓda]	636
+1725	oIs	skin	skinn	637
+1726	oIr	skin	cnes	638
+1727	oIr	skin	(croic-)	639
+1728	rIr	skin	craiceann	639
+1729	Lat	skin	(corium)	639
+1730	Hit	skin	( kurša)?	639
+1731	Ave	skin	(čarǝman)	639
+1732	San	skin	(cárman)	639
+1733	Rus	skin	(plená)	640
+1734	Lit	skin	(plėnė ‘Häutchen’)	640
+1735	Itn	skin	a pelle	640
+1736	Lat	skin	(pellis ‘Fell’)	640
+1737	aGr	skin	(πέλας)	640
+1738	Alb	skin	[lëkúrë]	641
+1739	aGr	skin	δέρμα	642
+1740	rGr	skin	δέρμα	642
+1741	Arm	skin	[mašk]	643
+1742	Hit	skin	G	644
+1743	ToB	skin	yetse	645
+1744	Ave	skin	suri?	646
+1745	San	skin	(chavī́)	646
+1746	San	skin	tvac	647
+1747	Hnd	skin	tvac-	647
+#
+1748	Rus	sleep	(drēmyō)	648
+1749	Itn	sleep	dormire	648
+1750	Lat	sleep	dormiō	648
+1751	aGr	sleep	(δαρθάνω)	648
+1752	San	sleep	drā-	648
+1753	Rus	sleep	спать	649
+1754	oIs	sleep	sofa	649
+1755	Bkm	sleep	sove	649
+1756	Lat	sleep	(sōpiō)	649
+1757	Arm	sleep	k’nel	649
+1758	Hit	sleep	supp-	649
+1759	Ave	sleep	xvaf-na-	649
+1760	San	sleep	(svapiti)	649
+1761	Hnd	sleep	sonā	649
+1762	Lit	sleep	mieg-ù/ṓti	650
+1763	Arm	sleep	(yenum?)	650
+1764	oIr	sleep	con-tuili	651
+1765	rIr	sleep	#NAME?	651
+1766	Alb	sleep	fle	652
+1767	aGr	sleep	(καθ)εύδω	653
+1768	rGr	sleep	κοιμάμαι	654
+1769	Hit	sleep	(šeš)	655
+1770	ToB	sleep	kläntsB	655
+1771	Ave	sleep	(hahmī ?)	655
+#
+1772	Lat	small	parvus	656
+1773	aGr	small	(παῦρος ‘few’)	656
+1774	Arm	small	pʻokʻr	656
+1775	Rus	small	(mьníjь)	657
+1776	Lat	small	(minus)	657
+1777	ToB	small	( maiweB:)	657
+1778	Rus	small	маленький	658
+1779	Lit	small	mãžas	659
+1780	oIs	small	lítill	660
+1781	Bkm	small	liten	660
+1782	oIr	small	[becc]	661
+1783	rIr	small	[beag ]	661
+1784	Itn	small	piccolo	662
+1785	Alb	small	[vogël]L	663
+1786	aGr	small	μικρός	664
+1787	rGr	small	μικρός	664
+1788	Hit	small	kappi (amij-ant)	665
+1789	aGr	small	(ὀλίγος)	666
+1790	ToB	small	lykaśke	666
+1791	Ave	small	OY kasu-	667
+1792	San	small	árbha-s	668
+1793	San	small	(kṣudra?)	669
+1794	Hnd	small	choṭā	669
+#
+1795	Rus	smoke	дым	670
+1796	Lit	smoke	dū́mai	670
+1797	oIr	smoke	dé	670
+1798	rIr	smoke	deatach	670
+1799	Itn	smoke	fumo	670
+1800	Lat	smoke	fūmus	670
+1801	aGr	smoke	(τῦφος, θῡμάλ-)	670
+1802	Hit	smoke	tuḫḫu(wa)i	670
+1803	Ave	smoke	dūta-(?) (mPr:dīt)	670
+1804	San	smoke	dhūmá	670
+1805	Hnd	smoke	dhuā̃	670
+1806	oIs	smoke	reykr	671
+1807	Bkm	smoke	røyk	671
+1808	Alb	smoke	[tym-i]L	672
+1809	aGr	smoke	καπνός	673
+1810	rGr	smoke	καπνός	673
+1811	Arm	smoke	[çux]	674
+1812	ToB	smoke	G	675
+1813	oIr	smoke	(múch)	676
+1814	rIr	smoke	(múch)	676
+1815	Arm	smoke	(mux)	676
+#
+1816	Rus	stand	стоять	677
+1817	Lit	stand	stōv-ḗti	677
+1818	oIs	stand	standa	677
+1819	Bkm	stand	stå	677
+1820	oIr	stand	tair-(ś)issiur	677
+1821	rIr	stand	seas	677
+1822	Itn	stand	stare	677
+1823	Lat	stand	stō	677
+1824	aGr	stand	ἕσταμεν	677
+1825	rGr	stand	στέκομαι	677
+1826	ToB	stand	(K: stäm)	677
+1827	Ave	stand	stā,hištai-	677
+1828	San	stand	stā,tíṣṭha-	677
+1829	Alb	stand	rri (më këmbë)	678
+1830	Hit	stand	ar- <h₃r-to	678
+1831	Arm	stand	kangn-el; (not ka-)	679
+1832	ToB	stand	G: käly	680
+1833	Hnd	stand	[khaṛā hona]	681
+#
+1834	oIs	star	stjarna	682
+1835	Bkm	star	stjerne	682
+1836	Itn	star	stella	682
+1837	Lat	star	stēlla	682
+1838	aGr	star	ἀστήρ	682
+1839	rGr	star	αστέρι	682
+1840	Arm	star	astɫ	682
+1841	Hit	star	ḫašter	682
+1842	ToB	star	ścirye	682
+1843	Ave	star	stār-	682
+1844	San	star	stár	682
+1845	Hnd	star	tārā	682
+1846	Rus	star	звезда	683
+1847	Lit	star	žvaigždė	683
+1848	oIr	star	[rind]	684
+1849	rIr	star	(rinn)	684
+1850	oIr	star	(rétglu)	685
+1851	rIr	star	[réalt(a)]	685
+1852	Alb	star	ylli	686
+#
+1853	Rus	stone	камень	687
+1854	Lit	stone	akmuõ	687
+1855	aGr	stone	(ἄκμων)	687
+1856	Hit	stone	(aku ‘sea-shell’)	687
+1857	Ave	stone	asman, asan-	687
+1858	San	stone	áśman	687
+1859	oIr	stone	(bráu) ‘mill~‘	688
+1860	Alb	stone	gūr	688
+1861	ToB	stone	kärweñeB	688
+1862	San	stone	(grāvan-)	688
+1863	oIs	stone	steinn	689
+1864	Bkm	stone	[sten]	689
+1865	oIr	stone	[cloch]	690
+1866	rIr	stone	[cloch]	690
+1867	Itn	stone	[pietra]	691
+1868	Lat	stone	lapis	692
+1869	aGr	stone	[λίθος]	693
+1870	rGr	stone	[πέτρα]	694
+1871	Arm	stone	k’ar	695
+1872	Hit	stone	peru(na) L	696
+1873	ToB	stone	(pāreṃA)	696
+1874	Hit	stone	(paššila)	697
+1875	Hnd	stone	[patthar]	698
+1876	oIr	stone	(līe)?	699
+1877	Alb	stone	(lerë)	699
+1878	aGr	stone	(λᾶας)?	699
+#
+1879	Rus	sun	солнце	700
+1880	Lit	sun	sáulē	700
+1881	oIs	sun	sól	700
+1882	Bkm	sun	sol	700
+1883	Itn	sun	sole	700
+1884	Lat	sun	sōl	700
+1885	aGr	sun	ἠέλιος	700
+1886	rGr	sun	ήλιος	700
+1887	ToB	sun	(St below -)	700
+1888	Ave	sun	hvar(a)	700
+1889	San	sun	svàr	700
+1890	Hnd	sun	sūraj	700
+1891	oIr	sun	grían	701
+1892	rIr	sun	#NAME?	701
+1893	Alb	sun	dielli	702
+1894	Arm	sun	arev/g	703
+1895	San	sun	(ravi)?	703
+1896	Hit	sun	[ištanu-] L	704
+1897	ToB	sun	kauṃ	705
+#
+1898	oIr	swim	snáïd	706
+1899	rIr	swim	snámh	706
+1900	Itn	swim	nuotare	706
+1901	Lat	swim	nat-	706
+1902	Alb	swim	nótoj	706
+1903	aGr	swim	νέω	706
+1904	ToB	swim	B nāsk	706
+1905	Ave	swim	nā	706
+1906	San	swim	[snā́ti ‘badet’]	706
+1907	Rus	swim	плыт	707
+1908	Lit	swim	plaũkti	707
+1909	aGr	swim	(πλέω)	707
+1910	San	swim	plu, pláv-	707
+1911	oIs	swim	svima-	708
+1912	Bkm	swim	[svømme]	708
+1913	rGr	swim	κολυμπώ	709
+1914	Arm	swim	loġ-al	710
+1915	Hit	swim	G	711
+1916	ToB	swim	( yärA)	711
+1917	Hnd	swim	tairnā	712
+#
+1918	oIr	tail	(err, er-ball)	713
+1919	rIr	tail	eireaball	713
+1920	aGr	tail	οὐρά	713
+1921	rGr	tail	ουρά	713
+1922	ToB	tail	B pako	714
+1923	San	tail	púccha	714
+1924	Hnd	tail	pū̃ch	714
+1925	Rus	tail	хвост	715
+1926	Lit	tail	uodegà	716
+1927	oIs	tail	hali	717
+1928	Bkm	tail	hale	717
+1929	Itn	tail	coda	718
+1930	Lat	tail	cauda	718
+1931	Alb	tail	bishti	719
+1932	Arm	tail	[poč] L?	720
+1933	Hit	tail	G	721
+1934	Ave	tail	duma	722
+#
+1935	Alb	that	a-i/jó/tá	723
+1936	aGr	that	(αὖτις)	723
+1937	Ave	that	hau,ava-	723
+1938	San	that	adás,amú	723
+1939	Hnd	that	vah	723
+1940	Lat	that	ille (alius)	724
+1941	aGr	that	(ἄλλος)	724
+1942	Rus	that	то(т)	725
+1943	Lit	that	tas	725
+1944	oIs	that	hinn	726
+1945	Bkm	that	[den, det] L	727
+1946	Arm	that	(noyn)	727
+1947	oIr	that	sin	728
+1948	rIr	that	#NAME?	728
+1949	Itn	that	quello	729
+1950	aGr	that	ἐκεῖνος	730
+1951	rGr	that	εκείνο	730
+1952	Arm	that	ay-n	731
+1953	Hit	that	ap/bā-	732
+1954	ToB	that	sam(p)	733
+#
+1955	Lit	this	šì-s	734
+1956	Lat	this	hic	734
+1957	aGr	this	(κε)	734
+1958	Hit	this	k-ā/ū/i-	734
+1959	Rus	this	это(т)	735
+1960	oIs	this	sá,sú,sjá	735
+1961	oIr	this	so,sa,se	735
+1962	rIr	this	seo	735
+1963	aGr	this	ὅδε (ὁ,ἡ), οὗτος	735
+1964	rGr	this	αυτ-ός	735
+1965	Arm	this	(sa)	735
+1966	ToB	this	se	735
+1967	Ave	this	ha(u)	735
+1968	San	this	sá(u)	735
+1969	Bkm	this	[denne, dette] L	736
+1970	Itn	this	questo	737
+1971	Alb	this	k-y/jo/ëtá	738
+1972	Hit	this	(k-??)	738
+1973	Arm	this	ay-s	739
+1974	Hnd	this	yah	740
+#
+1975	Rus	tongue	язык	741
+1976	Lit	tongue	liežùvis	741
+1977	oIs	tongue	tunga	741
+1978	Bkm	tongue	tunge	741
+1979	oIr	tongue	tengae	741
+1980	rIr	tongue	teanga	741
+1981	Itn	tongue	lingua	741
+1982	Lat	tongue	(d)lingua	741
+1983	Alb	tongue	gjuhë	741
+1984	Arm	tongue	lezu	741
+1985	ToB	tongue	kantwo	741
+1986	Ave	tongue	hizū	741
+1987	San	tongue	jihvā́	741
+1988	Hnd	tongue	jībh	741
+1989	aGr	tongue	γλῶττα	742
+1990	rGr	tongue	γλώσσα	742
+1991	Hit	tongue	lāla	743
+#
+1992	Lit	tooth	dantìs	744
+1993	oIs	tooth	tǫnn	744
+1994	Bkm	tooth	tann	744
+1995	oIr	tooth	dét	744
+1996	rIr	tooth	(dēt)	744
+1997	Itn	tooth	dente	744
+1998	Lat	tooth	dēns	744
+1999	aGr	tooth	ὀδών	744
+2000	rGr	tooth	δόντι	744
+2001	Arm	tooth	atamn	744
+2002	Ave	tooth	dantan	744
+2003	San	tooth	dánt-	744
+2004	Hnd	tooth	dā̃t	744
+2005	Rus	tooth	зуб	745
+2006	Alb	tooth	dhëmbi	745
+2007	aGr	tooth	(γόμφος)	745
+2008	ToB	tooth	kam;keme	745
+2009	San	tooth	(jámbha-)	745
+2010	rIr	tooth	[fiacail]	746
+2011	Hit	tooth	kaga	747
+#
+2012	Rus	tree	дерево	748
+2013	oIs	tree	tré	748
+2014	Bkm	tree	tre	748
+2015	Alb	tree	dru-ri	748
+2016	aGr	tree	δένδρον	748
+2017	rGr	tree	δέντρο	748
+2018	Hit	tree	taru	748
+2019	San	tree	druma-	748
+2020	Lit	tree	mẽdi-s	749
+2021	oIr	tree	crann	750
+2022	rIr	tree	crann	750
+2023	Itn	tree	albero	751
+2024	Lat	tree	arbor	751
+2025	Arm	tree	[çaṙ]	752
+2026	ToB	tree	stām	753
+2027	Ave	tree	varəša-	754
+2028	San	tree	(vr̥kṣá-)	754
+2029	Hnd	tree	[peṛ]	755
+2030	rIr	tree	(bile)	756
+#
+2031	Rus	two (num) [uninformative]	два	757
+2032	Lit	two (num) [uninformative]	dù	757
+2033	oIs	two (num) [uninformative]	tveir	757
+2034	Bkm	two (num) [uninformative]	to	757
+2035	oIr	two (num) [uninformative]	dá,dí	757
+2036	rIr	two (num) [uninformative]	dó	757
+2037	Itn	two (num) [uninformative]	due	757
+2038	Lat	two (num) [uninformative]	duo	757
+2039	Alb	two (num) [uninformative]	dy	757
+2040	aGr	two (num) [uninformative]	δύο	757
+2041	rGr	two (num) [uninformative]	δύο	757
+2042	Arm	two (num) [uninformative]	erku	757
+2043	Hit	two (num) [uninformative]	ta	757
+2044	ToB	two (num) [uninformative]	wu	757
+2045	Ave	two (num) [uninformative]	dva	757
+2046	San	two (num) [uninformative]	dvā́	757
+2047	Hnd	two (num) [uninformative]	do	757
+#
+2048	Rus	walk	идти	758
+2049	Lit	walk	eĩ-t/mi (vaikščioti)	758
+2050	Lat	walk	ire,eō	758
+2051	Alb	walk	([eci ])	758
+2052	aGr	walk	(εἶμι)	758
+2053	Hit	walk	iya	758
+2054	ToB	walk	i-/yä-	758
+2055	Ave	walk	aēiti,yeinti	758
+2056	San	walk	ay-	758
+2057	Lit	walk	(žengiù)	759
+2058	oIs	walk	ganga	759
+2059	Bkm	walk	gå	759
+2060	oIr	walk	(cingim)	759
+2061	rIr	walk	(cinn)	759
+2062	Arm	walk	(g(ə)n-al)	759
+2063	oIr	walk	siblaid	760
+2064	rIr	walk	siúlaim	760
+2065	Itn	walk	andare	761
+2066	oIr	walk	tíagu?	762
+2067	Itn	walk	(camminare)	762
+2068	Alb	walk	[shkoj]	762
+2069	oIs	walk	(fara)	763
+2070	aGr	walk	περιπατῶ	763
+2071	rGr	walk	πηγαίνω	763
+2072	Arm	walk	[k’ayl-el]	764
+2073	aGr	walk	(ἔβη)	765
+2074	ToB	walk	(i-, yä-n-)	765
+2075	San	walk	(car-)	765
+2076	Hnd	walk	calnā	765
+2077	Lat	walk	(amb-ulō)	766
+2078	aGr	walk	(ἀλάομαι)	766
+2079	Ave	walk	(gāt̰)	767
+2080	San	walk	(gam-/ágāt)	767
+2081	Lit	walk	(vaikščioti)	768
+#
+2082	Rus	water	вода	769
+2083	Lit	water	vanduõ	769
+2084	oIs	water	vatn	769
+2085	Bkm	water	vann	769
+2086	oIr	water	u(i)sce	769
+2087	rIr	water	uisce	769
+2088	Lat	water	(Umbutur)	769
+2089	Alb	water	ūjë	769
+2090	aGr	water	ὕδωρ	769
+2091	Arm	water	(get)	769
+2092	Hit	water	wādar	769
+2093	San	water	udán	769
+2094	Itn	water	acqua	770
+2095	Lat	water	aqua	770
+2096	rGr	water	νερό	771
+2097	Arm	water	[ǰur] L?	772
+2098	ToB	water	wär	773
+2099	Ave	water	(vāra ‘rain’)	773
+2100	San	water	(vā́r ?)	773
+2101	Lit	water	(ùpė)	774
+2102	aGr	water	(Ᾱπ-)	774
+2103	Hit	water	(hāpa-)	774
+2104	ToB	water	(āp ‘river’)	774
+2105	Ave	water	āfš	774
+2106	San	water	(āp-)	774
+2107	Hnd	water	pānī	775
+#
+2108	oIs	we incl	vit	776
+2109	Bkm	we incl	vi	776
+2110	Hit	we incl	wēs	776
+2111	ToB	we incl	wes	776
+2112	Ave	we incl	vaēm	776
+2113	San	we incl	vayám	776
+2114	oIr	we incl	sni	777
+2115	rIr	we incl	sinn	777
+2116	Itn	we incl	noi	777
+2117	Lat	we incl	nōs	777
+2118	Alb	we incl	ne	777
+2119	aGr	we incl	(νῶι)	777
+2120	Hnd	we incl	ham	777
+2121	Rus	we incl	мы	778
+2122	Lit	we incl	mẽs	778
+2123	aGr	we incl	ἡμεῖς	778
+2124	rGr	we incl	εμείς	778
+2125	Arm	we incl	me(n)k’	778
+#
+2126	Rus	what (Intpron) [uninformative]	что	779
+2127	Lit	what (Intpron) [uninformative]	kàs	779
+2128	oIs	what (Intpron) [uninformative]	hvat	779
+2129	Bkm	what (Intpron) [uninformative]	hva(d)	779
+2130	oIr	what (Intpron) [uninformative]	cíd (?)	779
+2131	Itn	what (Intpron) [uninformative]	che (ciò)	779
+2132	Lat	what (Intpron) [uninformative]	quid	779
+2133	Alb	what (Intpron) [uninformative]	ç-(farë)	779
+2134	aGr	what (Intpron) [uninformative]	τί	779
+2135	rGr	what (Intpron) [uninformative]	τί	779
+2136	Arm	what (Intpron) [uninformative]	inč (i(z-i)	779
+2137	Hit	what (Intpron) [uninformative]	kui	779
+2138	ToB	what (Intpron) [uninformative]	ku-s/c(e)	779
+2139	Ave	what (Intpron) [uninformative]	ka(t)	779
+2140	San	what (Intpron) [uninformative]	kád, kím	779
+2141	Hnd	what (Intpron) [uninformative]	kyā	779
+2142	rIr	what (Intpron) [uninformative]	cad	780
+#
+2143	oIs	white	hvítr	781
+2144	Bkm	white	hvit	781
+2145	Ave	white	spaēta-	781
+2146	San	white	śvítna	781
+2147	Rus	white	белый	782
+2148	Lit	white	báltas	782
+2149	rIr	white	(belo)	782
+2150	aGr	white	(φαλός )	782
+2151	oIr	white	(arggat)	783
+2152	Lat	white	(argentum)	783
+2153	aGr	white	(ἀργός )	783
+2154	Arm	white	(arcat)	783
+2155	Hit	white	harki	783
+2156	ToB	white	ārkwi	783
+2157	Ave	white	(ǝrǝzata)	783
+2158	San	white	(árju-)	783
+2159	oIr	white	fin	784
+2160	rIr	white	bán	785
+2161	Itn	white	[bianco]	786
+2162	Rus	white	(ólovo)	787
+2163	Lit	white	(alwis)	787
+2164	Lat	white	albus	787
+2165	rGr	white	(Ἀλουίων) =?	787
+2166	Arm	white	(aɫauni)	787
+2167	Alb	white	bardhë	788
+2168	aGr	white	λευκός	789
+2169	rGr	white	άσπρος	790
+2170	Arm	white	spitak	791
+2171	Hnd	white	[safed]	792
+#
+2172	Rus	who (intpron) [uninformative]	кто	793
+2173	Lit	who (intpron) [uninformative]	kà-s	793
+2174	oIs	who (intpron) [uninformative]	hverr	793
+2175	Bkm	who (intpron) [uninformative]	hvem	793
+2176	oIr	who (intpron) [uninformative]	cía	793
+2177	rIr	who (intpron) [uninformative]	cé	793
+2178	Itn	who (intpron) [uninformative]	chi	793
+2179	Lat	who (intpron) [uninformative]	qui(s)	793
+2180	Alb	who (intpron) [uninformative]	kush	793
+2181	aGr	who (intpron) [uninformative]	τίς	793
+2182	rGr	who (intpron) [uninformative]	(o)ποιος	793
+2183	Arm	who (intpron) [uninformative]	o(v)	793
+2184	Hit	who (intpron) [uninformative]	kui-	793
+2185	ToB	who (intpron) [uninformative]	kuse	793
+2186	Ave	who (intpron) [uninformative]	kō	793
+2187	San	who (intpron) [uninformative]	ká(s)	793
+2188	Hnd	who (intpron) [uninformative]	kaun	793
+#
+2189	Rus	woman	женщина	794
+2190	oIs	woman	kona	794
+2191	Bkm	woman	kvinne	794
+2192	oIr	woman	ben	794
+2193	rIr	woman	bean	794
+2194	aGr	woman	γυνή	794
+2195	rGr	woman	γυναίκα	794
+2196	Arm	woman	kin	794
+2197	Hit	woman	(kuwan)	794
+2198	ToB	woman	B sana; B klīye	794
+2199	Ave	woman	gǝnā, jə̄naya-	794
+2200	San	woman	jáni	794
+2201	Lit	woman	mṓter-is	795
+2202	Itn	woman	donna	796
+2203	Lat	woman	mulier	797
+2204	Alb	woman	grúa	798
+2205	Hnd	woman	[aurat]	799
+2206	Hit	woman	(unatti)	800
+2207	San	woman	(nā́rī-)	800
+#
+2208	Rus	yellow	жёлтый	801
+2209	Lit	yellow	geltṓna-s	801
+2210	oIs	yellow	gulr	801
+2211	Bkm	yellow	gul	801
+2212	Lat	yellow	(helvus)	801
+2213	Ave	yellow	zari-	801
+2214	San	yellow	hari(ta)	801
+2215	oIr	yellow	buide	802
+2216	rIr	yellow	> bui	802
+2217	Itn	yellow	[giallo]	803
+2218	Lat	yellow	[gilvus]	803
+2219	Lat	yellow	flavus	804
+2220	Alb	yellow	[verdhë]	805
+2221	aGr	yellow	ξανθός	806
+2222	rGr	yellow	[κίτρινος] L	807
+2223	Arm	yellow	deġin	808
+2224	Hit	yellow	[ḫaḫ-luwant]	809
+2225	ToB	yellow	B tute	810
+2226	San	yellow	(pīta GrS)	811
+2227	Hnd	yellow	pīlā	811
+2228	aGr	yellow	(κνη/ακός)	812
