@@ -1,0 +1,41 @@
+{
+    "title": "CLDF dataset derived from Holm's \"Steppe Homeland of Indo-European\" from 2017",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Hans-J\u00f6rg Holm"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Carlotta Kintscher",
+            "type": "Other"
+        },
+        {
+            "name": "Dana Thoeren",
+            "type": "Other"
+        },
+        {
+            "name": "Katja Sirges",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Holm, H. J. (2017): Steppe Homeland of Indo-Europeans Favored by a Bayesian Approach with Revised Data and Processing. Glottometrics 37. 54-81.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
