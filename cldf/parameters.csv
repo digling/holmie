@@ -1,0 +1,101 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Glosses_in_Source
+1_iprsprn1sg,I (PrsPrn 1Sg),1209,I,I (PPr) // I (PrsPrn 1Sg)
+2_you2sgthou1955uninftve,"You, 2sg, thou (1955) [uninftve]",1215,THOU,"you // You, 2sg, thou (1955) [uninftve]"
+3_weincl,we incl,,,we incl
+4_this,this,1214,THIS,this // this [amb]
+5_that,that,78,THAT,"that [cf “all”!] // that [amb, often undecidable] // that"
+6_whointpronuninformative,who (intpron) [uninformative],1235,WHO,who (intpron) [uninformative]
+7_whatintpronuninformative,what (Intpron) [uninformative],1236,WHAT,what (Intpron) [uninformative] // what (Intpron)
+8_not,not,1240,NOT,not (‘comparable’) // not
+9_allofano,all (of a no.),2650,ALL OR MANY,all (of a no.)
+10_many,many,1198,MANY,"many // many n [NOT: full, big, much] // many (plural!)"
+11_one,one,1493,ONE,one // one (numeral)
+12_twonumuninformative,two (num) [uninformative],1384,SECOND,two (num) [uninformative]
+13_big,big,1202,BIG,"big (large, cf many, long) // big"
+14_long,long,1203,LONG,long
+15_small,small,1246,SMALL,small // small [amb]
+16_woman,woman,962,WOMAN,woman
+17_man,man,1554,MAN,man (adult male human) cf person // man
+18_person,person,683,PERSON,person (human individual; cf man // person
+19_fish,fish,227,FISH,fish n // fish
+20_bird,bird,937,BIRD,bird (cf “fly”) // bird
+21_dog,dog,2009,DOG,dog // dog n
+22_louse,louse,1392,LOUSE,louse [Ri only i list] // louse
+23_tree,tree,906,TREE,tree // tree (not log) Lu~)
+24_seed,seed,714,SEED,seed // seed n[not universal]
+25_leaf,leaf,628,LEAF,leaf // leaf (of plant)
+26_root,root,670,ROOT,root
+27_bark,bark,1204,BARK,bark (of tree) // bark
+28_skin,skin,291,PULL OFF (SKIN),skinn // skin // skin (human)
+29_flesh,flesh,2259,FLESH,"flesh (1955 meat, =Ri.)* // flesh"
+30_blood,blood,946,BLOOD,blood // blood n
+31_bone,bone,1394,BONE,bone (oppos. to flesh) // bone
+32_greasefat,"grease, fat",323,FAT (ORGANIC SUBSTANCE),"grease, fat // grease n (anat! 1955 fat=Ri)"
+33_egg,egg,744,EGG,egg // egg [cf seed!]
+34_horn,horn,1393,HORN (ANATOMY),horn // horn (anim.) [cf head]
+35_tail,tail,1220,TAIL,tail (cf arse!) // tail
+36_feather,feather,1201,FEATHER,"feather (large, not down) [amb] // feather"
+37_hair,hair,2648,HAIR (HEAD),hair
+38_head,head,1256,HEAD,head // head(anat)
+39_ear,ear,1247,EAR,ear (anat) // ear
+40_eye,eye,1248,EYE,eye
+41_nose,nose,1221,NOSE,nose
+42_mouth,mouth,674,MOUTH,mouth
+43_tooth,tooth,1380,TOOTH,tooth (front? undecidable) // tooth
+44_tongue,tongue,1205,TONGUE,tongue (anat) // tongue
+45_nailsclaw,nail(s) (claw),3306,NAIL,nail of digits (not followg Sw’ change to ‘claw’) // nail(s) (claw)
+46_foot,foot,1301,FOOT,foot
+47_knee,knee,1371,KNEE,knee // knee (bodypt)
+48_hand,hand,1277,HAND,hand
+49_belly,belly,1251,BELLY,"belly (abdomen, not stomach) // Belly // belly"
+50_neck,neck,1333,NECK,neck // neck (not nape) [difficult]
+51_breastsfem,breasts (fem),1402,BREAST,"breasts (fem, Ri. “woman’s”) // breasts (fem)"
+52_heart,heart,1223,HEART,heart
+53_liver,liver,1224,LIVER,liver
+54_drink,drink,1401,DRINK,drink // drink vt
+55_eat,eat,1336,EAT,"eat v, [cf tooth] // eat"
+56_bitev,bite (v),1403,BITE,bite (v) // bite (v) [cf “eat”]
+57_see,see,1409,SEE,see (to look) [cf to know] // see
+58_hear,hear,1408,HEAR,hear (v) // hear
+59_know,know,1410,KNOW (SOMETHING),know // know vi // know (facts)
+60_sleep,sleep,1585,SLEEP,s(leep // sleep (v; [cf lie down] // sleep
+61_die,die,1494,DIE,die // die vi
+62_kill,kill,1417,KILL,kill // kill v (cf die!) (Ri-L
+63_swim,swim,1439,SWIM,swim // swim [amb~ float]
+64_fly,fly,1504,FLY (INSECT),fly // fly v
+65_walk,walk,2979,WALK (MANNER),walk (advancing foots alternatively) // walk
+66_come,come,1446,COME,"come // come vi [cf walk, go]"
+67_lie,lie,1411,LIE (REST),"lie // lie (recline, rest)"
+68_sit,sit,1649,SIT DOWN,sit (vi) // sit
+69_stand,stand,570,STAND UP,stand (vi) // stand
+70_give,give,1447,GIVE,give
+71_say,say,1458,SAY,say [undecidable!] // say
+72_sun,sun,1343,SUN,sun
+73_moon,moon,1313,MOON,moon
+74_star,star,1430,STAR,star
+75_water,water,2516,WATER BUFFALO,water n [cf rain!] // water
+76_rain,rain,1253,RAIN (RAINING),rain n // rain
+77_stone,stone,668,ROCK,"stone // stone (opp. to sand, earth)"
+78_sand,sand,671,SAND,sand // sand (as opp. to earth) // sand ?
+79_earth,earth,1228,EARTH (SOIL),"earth // earth (soil! opp.to sand, stone; thus not globe, territory)"
+80_cloud,cloud,1489,CLOUD,"cloud (not smoke, fume) // cloud"
+81_smoke,smoke,778,SMOKE (EXHAUST),"smoke ? // smoke (n, of fire, not cloud) // smoke"
+82_fire,fire,221,FIRE,fire
+83_ashes,ash(es),646,ASH,ash(es)
+84_burn,burn,2102,BURN,burn (i. not maintainable) // burn
+85_path,path,2252,PATH,"path // path, road, (not street) [amb]"
+86_mountain,mountain,639,MOUNTAIN,"mountain [not universal, amb] // mountain"
+87_red,red,156,RED,red
+88_green,green,1425,GREEN,green // green [amb! cf. yellow]
+89_yellow,yellow,1424,YELLOW,yellow [amb] // yellow
+90_white,white,1335,WHITE,white  [amb] // white
+91_black,black,163,BLACK,black(col) [amb] // black(col) // black
+92_night,night,1233,NIGHT,night
+93_hot,hot,1286,HOT,hot // hot (vs. cold; 1952: warm) [amb]
+94_cold,cold,1287,COLD,cold
+95_full,full,1429,FULL,full
+96_new,new,1231,NEW,new
+97_good,good,1035,GOOD,good [cf ‘big’] // good
+98_round,round,1395,ROUND,"round [amb, out of 22 in WP:] // round // round ?"
+99_dry,dry,1398,DRY,dry (adj) // dry
+100_name,name,1405,NAME,name // name [uninf]

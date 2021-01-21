@@ -1,101 +1,147 @@
-NUMBER	ENGLISH	GLOSS_IN_SOURCE
-1	I (PrsPrn 1Sg)	I (PPr) // I (PrsPrn 1Sg)
-2	You, 2sg, thou (1955) [uninftve]	you // You, 2sg, thou (1955) [uninftve]
-3	we incl	we incl
-4	this	this // this [amb]
-5	that	that [cf “all”!] // that [amb, often undecidable] // that
-6	who (intpron) [uninformative]	who (intpron) [uninformative]
-7	what (Intpron) [uninformative]	what (Intpron) [uninformative] // what (Intpron)
-8	not	not (‘comparable’) // not
-9	all (of a no.)	all (of a no.)
-10	many	many // many n [NOT: full, big, much] // many (plural!)
-11	one	one // one (numeral)
-12	two (num) [uninformative]	two (num) [uninformative]
-13	big	big (large, cf many, long) // big
-14	long	long
-15	small	small // small [amb]
-16	woman	woman
-17	man	man (adult male human) cf person // man
-18	person	person (human individual; cf man // person
-19	fish	fish n // fish
-20	bird	bird (cf “fly”) // bird
-21	dog	dog // dog n
-22	louse	louse [Ri only i list] // louse
-23	tree	tree // tree (not log) Lu~)
-24	seed	seed // seed n[not universal]
-25	leaf	leaf // leaf (of plant)
-26	root	root
-27	bark	bark (of tree) // bark
-28	skin	skinn // skin // skin (human)
-29	flesh	flesh (1955 meat, =Ri.)* // flesh
-30	blood	blood // blood n
-31	bone	bone (oppos. to flesh) // bone
-32	grease, fat	grease, fat // grease n (anat! 1955 fat=Ri)
-33	egg	egg // egg [cf seed!]
-34	horn	horn // horn (anim.) [cf head]
-35	tail	tail (cf arse!) // tail
-36	feather	feather (large, not down) [amb] // feather
-37	hair	hair
-38	head	head // head(anat)
-39	ear	ear (anat) // ear
-40	eye	eye
-41	nose	nose
-42	mouth	mouth
-43	tooth	tooth (front? undecidable) // tooth
-44	tongue	tongue (anat) // tongue
-45	nail(s) (claw)	nail of digits (not followg Sw’ change to ‘claw’) // nail(s) (claw)
-46	foot	foot
-47	knee	knee // knee (bodypt)
-48	hand	hand
-49	belly	belly (abdomen, not stomach) // Belly // belly
-50	neck	neck // neck (not nape) [difficult]
-51	breasts (fem)	breasts (fem, Ri. “woman’s”) // breasts (fem)
-52	heart	heart
-53	liver	liver
-54	drink	drink // drink vt
-55	eat	eat v, [cf tooth] // eat
-56	bite (v)	bite (v) // bite (v) [cf “eat”]
-57	see	see (to look) [cf to know] // see
-58	hear	hear (v) // hear
-59	know	know // know vi // know (facts)
-60	sleep	s(leep // sleep (v; [cf lie down] // sleep
-61	die	die // die vi
-62	kill	kill // kill v (cf die!) (Ri-L
-63	swim	swim // swim [amb~ float]
-64	fly	fly // fly v
-65	walk	walk (advancing foots alternatively) // walk
-66	come	come // come vi [cf walk, go]
-67	lie	lie // lie (recline, rest)
-68	sit	sit (vi) // sit
-69	stand	stand (vi) // stand
-70	give	give
-71	say	say [undecidable!] // say
-72	sun	sun
-73	moon	moon
-74	star	star
-75	water	water n [cf rain!] // water
-76	rain	rain n // rain
-77	stone	stone // stone (opp. to sand, earth)
-78	sand	sand // sand (as opp. to earth) // sand ?
-79	earth	earth // earth (soil! opp.to sand, stone; thus not globe, territory)
-80	cloud	cloud (not smoke, fume) // cloud
-81	smoke	smoke ? // smoke (n, of fire, not cloud) // smoke
-82	fire	fire
-83	ash(es)	ash(es)
-84	burn	burn (i. not maintainable) // burn
-85	path	path // path, road, (not street) [amb]
-86	mountain	mountain [not universal, amb] // mountain
-87	red	red
-88	green	green // green [amb! cf. yellow]
-89	yellow	yellow [amb] // yellow
-90	white	white  [amb] // white
-91	black	black(col) [amb] // black(col) // black
-92	night	night
-93	hot	hot // hot (vs. cold; 1952: warm) [amb]
-94	cold	cold
-95	full	full
-96	new	new
-97	good	good [cf ‘big’] // good
-98	round	round [amb, out of 22 in WP:] // round // round ?
-99	dry	dry (adj) // dry
-100	name	name // name [uninf]
+NUMBER	ENGLISH	GLOSSES_IN_SOURCE	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	I (PrsPrn 1Sg)	I (PPr) // I (PrsPrn 1Sg)	1209	I
+2	You, 2sg, thou (1955) [uninftve]	you // You, 2sg, thou (1955) [uninftve]	1215	THOU
+3	we incl	we incl		
+4	this	this // this [amb]	1214	THIS
+5	that	that [cf “all”!] // that [amb, often undecidable] // that	78	THAT
+6	who (intpron) [uninformative]	who (intpron) [uninformative]	1235	WHO
+7	what (Intpron) [uninformative]	what (Intpron) [uninformative] // what (Intpron)	1236	WHAT
+8	not	not (‘comparable’) // not	1240	NOT
+9	all (of a no.)	all (of a no.)	2650	ALL OR MANY
+9	all (of a no.)	all (of a no.)	98	ALL
+9	all (of a no.)	all (of a no.)	3638	ASSEMBLE (GET TOGETHER)
+9	all (of a no.)	all (of a no.)	2277	WHOLE
+10	many	many // many n [NOT: full, big, much] // many (plural!)	1198	MANY
+10	many	many // many n [NOT: full, big, much] // many (plural!)	3453	MANY PIECES
+11	one	one // one (numeral)	1493	ONE
+12	two (num) [uninformative]	two (num) [uninformative]	1384	SECOND
+12	two (num) [uninformative]	two (num) [uninformative]	1498	TWO
+13	big	big (large, cf many, long) // big	1202	BIG
+14	long	long	1203	LONG
+14	long	long	418	FOR A LONG TIME
+14	long	long	3473	LONG (FOR SOMETHING)
+15	small	small // small [amb]	1246	SMALL
+16	woman	woman	962	WOMAN
+17	man	man (adult male human) cf person // man	1554	MAN
+17	man	man (adult male human) cf person // man	683	PERSON
+17	man	man (adult male human) cf person // man	2106	MALE PERSON
+18	person	person (human individual; cf man // person	683	PERSON
+19	fish	fish n // fish	227	FISH
+19	fish	fish n // fish	2638	FISHING
+20	bird	bird (cf “fly”) // bird	937	BIRD
+21	dog	dog // dog n	2009	DOG
+22	louse	louse [Ri only i list] // louse	1392	LOUSE
+22	louse	louse [Ri only i list] // louse	310	HEAD LOUSE
+23	tree	tree // tree (not log) Lu~)	906	TREE
+24	seed	seed // seed n[not universal]	714	SEED
+25	leaf	leaf // leaf (of plant)	628	LEAF
+25	leaf	leaf // leaf (of plant)	2250	LEAF (LEAFLIKE OBJECT)
+26	root	root	670	ROOT
+27	bark	bark (of tree) // bark	1204	BARK
+27	bark	bark (of tree) // bark	1206	BARKING
+28	skin	skinn // skin // skin (human)	291	PULL OFF (SKIN)
+28	skin	skinn // skin // skin (human)	763	SKIN
+28	skin	skinn // skin // skin (human)	2614	SKIN (ANIMAL)
+28	skin	skinn // skin // skin (human)	2613	SKIN (HUMAN)
+29	flesh	flesh (1955 meat, =Ri.)* // flesh	2259	FLESH
+29	flesh	flesh (1955 meat, =Ri.)* // flesh	2615	FLESH OR MEAT
+30	blood	blood // blood n	946	BLOOD
+31	bone	bone (oppos. to flesh) // bone	1394	BONE
+32	grease, fat	grease, fat // grease n (anat! 1955 fat=Ri)	323	FAT (ORGANIC SUBSTANCE)
+33	egg	egg // egg [cf seed!]	744	EGG
+34	horn	horn // horn (anim.) [cf head]	1393	HORN (ANATOMY)
+34	horn	horn // horn (anim.) [cf head]	939	HORN (INSTRUMENT)
+35	tail	tail (cf arse!) // tail	1220	TAIL
+36	feather	feather (large, not down) [amb] // feather	1201	FEATHER
+37	hair	hair	2648	HAIR (HEAD)
+37	hair	hair	1040	HAIR
+37	hair	hair	2381	FEATHER OR FUR OR HAIR
+38	head	head // head(anat)	1256	HEAD
+39	ear	ear (anat) // ear	1247	EAR
+40	eye	eye	1248	EYE
+41	nose	nose	1221	NOSE
+42	mouth	mouth	674	MOUTH
+43	tooth	tooth (front? undecidable) // tooth	1380	TOOTH
+44	tongue	tongue (anat) // tongue	1205	TONGUE
+45	nail(s) (claw)	nail of digits (not followg Sw’ change to ‘claw’) // nail(s) (claw)	3306	NAIL
+45	nail(s) (claw)	nail of digits (not followg Sw’ change to ‘claw’) // nail(s) (claw)	2128	CLAW OR NAIL
+45	nail(s) (claw)	nail of digits (not followg Sw’ change to ‘claw’) // nail(s) (claw)	72	CLAW
+45	nail(s) (claw)	nail of digits (not followg Sw’ change to ‘claw’) // nail(s) (claw)	1896	FINGERNAIL OR TOENAIL
+45	nail(s) (claw)	nail of digits (not followg Sw’ change to ‘claw’) // nail(s) (claw)	1258	FINGERNAIL
+45	nail(s) (claw)	nail of digits (not followg Sw’ change to ‘claw’) // nail(s) (claw)	502	NAIL (TOOL)
+46	foot	foot	1301	FOOT
+46	foot	foot	2098	FOOT OR LEG
+47	knee	knee // knee (bodypt)	1371	KNEE
+48	hand	hand	1277	HAND
+49	belly	belly (abdomen, not stomach) // Belly // belly	1251	BELLY
+50	neck	neck // neck (not nape) [difficult]	1333	NECK
+51	breasts (fem)	breasts (fem, Ri. “woman’s”) // breasts (fem)	1402	BREAST
+52	heart	heart	1223	HEART
+53	liver	liver	1224	LIVER
+54	drink	drink // drink vt	1401	DRINK
+54	drink	drink // drink vt	731	BEVERAGE
+55	eat	eat v, [cf tooth] // eat	1336	EAT
+56	bite (v)	bite (v) // bite (v) [cf “eat”]	1403	BITE
+57	see	see (to look) [cf to know] // see	1409	SEE
+58	hear	hear (v) // hear	1408	HEAR
+59	know	know // know vi // know (facts)	1410	KNOW (SOMETHING)
+60	sleep	s(leep // sleep (v; [cf lie down] // sleep	1585	SLEEP
+61	die	die // die vi	1494	DIE
+62	kill	kill // kill v (cf die!) (Ri-L	1417	KILL
+63	swim	swim // swim [amb~ float]	1439	SWIM
+64	fly	fly // fly v	1504	FLY (INSECT)
+64	fly	fly // fly v	1441	FLY (MOVE THROUGH AIR)
+65	walk	walk (advancing foots alternatively) // walk	2979	WALK (MANNER)
+65	walk	walk (advancing foots alternatively) // walk	1443	WALK
+66	come	come // come vi [cf walk, go]	1446	COME
+67	lie	lie // lie (recline, rest)	1411	LIE (REST)
+67	lie	lie // lie (recline, rest)	2826	LIE (FALSEHOOD)
+67	lie	lie // lie (recline, rest)	215	LIE DOWN
+67	lie	lie // lie (recline, rest)	601	LIE (MISLEAD)
+68	sit	sit (vi) // sit	1649	SIT DOWN
+68	sit	sit (vi) // sit	1416	SIT
+69	stand	stand (vi) // stand	570	STAND UP
+69	stand	stand (vi) // stand	1442	STAND
+70	give	give	1447	GIVE
+70	give	give	196	DONATE
+71	say	say [undecidable!] // say	1458	SAY
+72	sun	sun	1343	SUN
+73	moon	moon	1313	MOON
+74	star	star	1430	STAR
+75	water	water n [cf rain!] // water	2516	WATER BUFFALO
+75	water	water n [cf rain!] // water	3078	IRRIGATE
+75	water	water n [cf rain!] // water	948	WATER
+76	rain	rain n // rain	1253	RAIN (RAINING)
+76	rain	rain n // rain	658	RAIN (PRECIPITATION)
+76	rain	rain n // rain	2108	RAINING OR RAIN
+77	stone	stone // stone (opp. to sand, earth)	668	ROCK
+77	stone	stone // stone (opp. to sand, earth)	857	STONE
+77	stone	stone // stone (opp. to sand, earth)	1762	STONE (OF FRUIT)
+78	sand	sand // sand (as opp. to earth) // sand ?	671	SAND
+78	sand	sand // sand (as opp. to earth) // sand ?	3460	BEACH
+79	earth	earth // earth (soil! opp.to sand, stone; thus not globe, territory)	1228	EARTH (SOIL)
+79	earth	earth // earth (soil! opp.to sand, stone; thus not globe, territory)	965	WORLD
+79	earth	earth // earth (soil! opp.to sand, stone; thus not globe, territory)	2159	GROUND
+79	earth	earth // earth (soil! opp.to sand, stone; thus not globe, territory)	626	LAND
+80	cloud	cloud (not smoke, fume) // cloud	1489	CLOUD
+80	cloud	cloud (not smoke, fume) // cloud	448	STORM CLOUDS
+81	smoke	smoke ? // smoke (n, of fire, not cloud) // smoke	778	SMOKE (EXHAUST)
+82	fire	fire	221	FIRE
+83	ash(es)	ash(es)	646	ASH
+84	burn	burn (i. not maintainable) // burn	2102	BURN
+85	path	path // path, road, (not street) [amb]	2252	PATH
+86	mountain	mountain [not universal, amb] // mountain	639	MOUNTAIN
+87	red	red	156	RED
+88	green	green // green [amb! cf. yellow]	1425	GREEN
+89	yellow	yellow [amb] // yellow	1424	YELLOW
+90	white	white  [amb] // white	1335	WHITE
+91	black	black(col) [amb] // black(col) // black	163	BLACK
+92	night	night	1233	NIGHT
+93	hot	hot // hot (vs. cold; 1952: warm) [amb]	1286	HOT
+94	cold	cold	1287	COLD
+95	full	full	1429	FULL
+96	new	new	1231	NEW
+97	good	good [cf ‘big’] // good	1035	GOOD
+98	round	round [amb, out of 22 in WP:] // round // round ?	1395	ROUND
+99	dry	dry (adj) // dry	1398	DRY
+100	name	name // name [uninf]	1405	NAME
