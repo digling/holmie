@@ -14,7 +14,7 @@ setup(
     py_modules=["lexibank_holmie"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={"lexibank.dataset": ["allenbai=lexibank_holmie:Dataset"]},
+    entry_points={"lexibank.dataset": ["holmie=lexibank_holmie:Dataset"]},
     install_requires=["pylexibank>=2.1"],
     extras_require={"test": ["pytest-cldf"]},
 )
