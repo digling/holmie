@@ -7,27 +7,18 @@ NUMBER	ENGLISH	GLOSSES_IN_SOURCE	CONCEPTICON_ID	CONCEPTICON_GLOSS
 6	who (intpron) [uninformative]	who (intpron) [uninformative]	1235	WHO
 7	what (Intpron) [uninformative]	what (Intpron) [uninformative] // what (Intpron)	1236	WHAT
 8	not	not (‘comparable’) // not	1240	NOT
-9	all (of a no.)	all (of a no.)	2650	ALL OR MANY
 9	all (of a no.)	all (of a no.)	98	ALL
-9	all (of a no.)	all (of a no.)	3638	ASSEMBLE (GET TOGETHER)
-9	all (of a no.)	all (of a no.)	2277	WHOLE
 10	many	many // many n [NOT: full, big, much] // many (plural!)	1198	MANY
 10	many	many // many n [NOT: full, big, much] // many (plural!)	3453	MANY PIECES
 11	one	one // one (numeral)	1493	ONE
-12	two (num) [uninformative]	two (num) [uninformative]	1384	SECOND
 12	two (num) [uninformative]	two (num) [uninformative]	1498	TWO
 13	big	big (large, cf many, long) // big	1202	BIG
 14	long	long	1203	LONG
-14	long	long	418	FOR A LONG TIME
-14	long	long	3473	LONG (FOR SOMETHING)
 15	small	small // small [amb]	1246	SMALL
 16	woman	woman	962	WOMAN
 17	man	man (adult male human) cf person // man	1554	MAN
-17	man	man (adult male human) cf person // man	683	PERSON
-17	man	man (adult male human) cf person // man	2106	MALE PERSON
 18	person	person (human individual; cf man // person	683	PERSON
 19	fish	fish n // fish	227	FISH
-19	fish	fish n // fish	2638	FISHING
 20	bird	bird (cf “fly”) // bird	937	BIRD
 21	dog	dog // dog n	2009	DOG
 22	louse	louse [Ri only i list] // louse	1392	LOUSE
@@ -35,14 +26,9 @@ NUMBER	ENGLISH	GLOSSES_IN_SOURCE	CONCEPTICON_ID	CONCEPTICON_GLOSS
 23	tree	tree // tree (not log) Lu~)	906	TREE
 24	seed	seed // seed n[not universal]	714	SEED
 25	leaf	leaf // leaf (of plant)	628	LEAF
-25	leaf	leaf // leaf (of plant)	2250	LEAF (LEAFLIKE OBJECT)
 26	root	root	670	ROOT
 27	bark	bark (of tree) // bark	1204	BARK
-27	bark	bark (of tree) // bark	1206	BARKING
-28	skin	skinn // skin // skin (human)	291	PULL OFF (SKIN)
 28	skin	skinn // skin // skin (human)	763	SKIN
-28	skin	skinn // skin // skin (human)	2614	SKIN (ANIMAL)
-28	skin	skinn // skin // skin (human)	2613	SKIN (HUMAN)
 29	flesh	flesh (1955 meat, =Ri.)* // flesh	2259	FLESH
 29	flesh	flesh (1955 meat, =Ri.)* // flesh	2615	FLESH OR MEAT
 30	blood	blood // blood n	946	BLOOD
@@ -50,12 +36,9 @@ NUMBER	ENGLISH	GLOSSES_IN_SOURCE	CONCEPTICON_ID	CONCEPTICON_GLOSS
 32	grease, fat	grease, fat // grease n (anat! 1955 fat=Ri)	323	FAT (ORGANIC SUBSTANCE)
 33	egg	egg // egg [cf seed!]	744	EGG
 34	horn	horn // horn (anim.) [cf head]	1393	HORN (ANATOMY)
-34	horn	horn // horn (anim.) [cf head]	939	HORN (INSTRUMENT)
 35	tail	tail (cf arse!) // tail	1220	TAIL
 36	feather	feather (large, not down) [amb] // feather	1201	FEATHER
-37	hair	hair	2648	HAIR (HEAD)
 37	hair	hair	1040	HAIR
-37	hair	hair	2381	FEATHER OR FUR OR HAIR
 38	head	head // head(anat)	1256	HEAD
 39	ear	ear (anat) // ear	1247	EAR
 40	eye	eye	1248	EYE
@@ -70,7 +53,6 @@ NUMBER	ENGLISH	GLOSSES_IN_SOURCE	CONCEPTICON_ID	CONCEPTICON_GLOSS
 45	nail(s) (claw)	nail of digits (not followg Sw’ change to ‘claw’) // nail(s) (claw)	1258	FINGERNAIL
 45	nail(s) (claw)	nail of digits (not followg Sw’ change to ‘claw’) // nail(s) (claw)	502	NAIL (TOOL)
 46	foot	foot	1301	FOOT
-46	foot	foot	2098	FOOT OR LEG
 47	knee	knee // knee (bodypt)	1371	KNEE
 48	hand	hand	1277	HAND
 49	belly	belly (abdomen, not stomach) // Belly // belly	1251	BELLY
@@ -89,42 +71,24 @@ NUMBER	ENGLISH	GLOSSES_IN_SOURCE	CONCEPTICON_ID	CONCEPTICON_GLOSS
 61	die	die // die vi	1494	DIE
 62	kill	kill // kill v (cf die!) (Ri-L	1417	KILL
 63	swim	swim // swim [amb~ float]	1439	SWIM
-64	fly	fly // fly v	1504	FLY (INSECT)
 64	fly	fly // fly v	1441	FLY (MOVE THROUGH AIR)
-65	walk	walk (advancing foots alternatively) // walk	2979	WALK (MANNER)
 65	walk	walk (advancing foots alternatively) // walk	1443	WALK
 66	come	come // come vi [cf walk, go]	1446	COME
 67	lie	lie // lie (recline, rest)	1411	LIE (REST)
-67	lie	lie // lie (recline, rest)	2826	LIE (FALSEHOOD)
-67	lie	lie // lie (recline, rest)	215	LIE DOWN
-67	lie	lie // lie (recline, rest)	601	LIE (MISLEAD)
-68	sit	sit (vi) // sit	1649	SIT DOWN
 68	sit	sit (vi) // sit	1416	SIT
-69	stand	stand (vi) // stand	570	STAND UP
 69	stand	stand (vi) // stand	1442	STAND
 70	give	give	1447	GIVE
-70	give	give	196	DONATE
 71	say	say [undecidable!] // say	1458	SAY
 72	sun	sun	1343	SUN
 73	moon	moon	1313	MOON
 74	star	star	1430	STAR
-75	water	water n [cf rain!] // water	2516	WATER BUFFALO
-75	water	water n [cf rain!] // water	3078	IRRIGATE
 75	water	water n [cf rain!] // water	948	WATER
-76	rain	rain n // rain	1253	RAIN (RAINING)
 76	rain	rain n // rain	658	RAIN (PRECIPITATION)
-76	rain	rain n // rain	2108	RAINING OR RAIN
 77	stone	stone // stone (opp. to sand, earth)	668	ROCK
 77	stone	stone // stone (opp. to sand, earth)	857	STONE
-77	stone	stone // stone (opp. to sand, earth)	1762	STONE (OF FRUIT)
 78	sand	sand // sand (as opp. to earth) // sand ?	671	SAND
-78	sand	sand // sand (as opp. to earth) // sand ?	3460	BEACH
 79	earth	earth // earth (soil! opp.to sand, stone; thus not globe, territory)	1228	EARTH (SOIL)
-79	earth	earth // earth (soil! opp.to sand, stone; thus not globe, territory)	965	WORLD
-79	earth	earth // earth (soil! opp.to sand, stone; thus not globe, territory)	2159	GROUND
-79	earth	earth // earth (soil! opp.to sand, stone; thus not globe, territory)	626	LAND
 80	cloud	cloud (not smoke, fume) // cloud	1489	CLOUD
-80	cloud	cloud (not smoke, fume) // cloud	448	STORM CLOUDS
 81	smoke	smoke ? // smoke (n, of fire, not cloud) // smoke	778	SMOKE (EXHAUST)
 82	fire	fire	221	FIRE
 83	ash(es)	ash(es)	646	ASH
